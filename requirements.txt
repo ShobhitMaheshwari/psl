@@ -1,0 +1,10 @@
+nltk
+pandas
+tensorflow
+numpy
+scikit-learn
+matplotlib
+scipy
+HTMLParser
+plotly
+ipykernel
