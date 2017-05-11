@@ -40,48 +40,43 @@ def create_knows(users2):
 	#print data to file
 	knows_obs = set()
 	knows_tru = set()
-	knows_tar = set()
 	knows = list(knows)
 	shuffle(knows)
 	for i in range(0, len(knows)):
 		#choice = np.random.choice([0,1,2], 1, p=[0.2, 0.7, 0.1])[0]
-		if(i < len(knows)*.8):
+		if(i < len(knows)*.9):
 			choice=0
-		elif(i < len(knows)*.9):
-			choice = 1
 		else:
-			choice = 2
+			choice = 1
 		elem = knows[i]
 		if(choice == 0 and elem[2]==1):
 			knows_obs.add(elem)
-		elif(choice == 1):
-			knows_tru.add(elem)
 		else:
-			knows_tar.add(elem)
-	knows_tar = list(knows_tar)
-	knows_tar = knows_tar[0:int(math.floor(.1*len(knows_tar)))]
-	knows_tar = set(knows_tar)
-	return knows_obs, knows_tru, knows_tar
+			knows_tru.add(elem)
+	knows_tru = list(knows_tru)
+	knows_tru = knows_tru[0:int(math.floor(.01*len(knows_tru)))]
+	knows_tru = set(knows_tru)
+	return knows_obs, knows_tru
 	
-def saveKnows(knows_obs, knows_tru, knows_tar):
-	with open('knows_obs3.txt', 'a') as f:
+def saveKnows(knows_obs, knows_tru):
+	with open('knows_obs.txt', 'a') as f:
 		for elem in knows_obs:
 			f.write(elem[0] + "\t" + elem[1] + "\n")
 	print("save")
-	with open('knows_truth3.txt', 'a') as f:
+	with open('knows_truth.txt', 'a') as f:
 		for elem in knows_tru:
 			f.write(elem[0] + "\t" + elem[1] + "\t" + str(elem[2]) + "\n")
 	print("save")
-	with open('knows_targets3.txt', 'a') as f:
-		for elem in knows_tar:
+	with open('knows_targets.txt', 'a') as f:
+		for elem in knows_tru:
 			f.write(elem[0] + "\t" + elem[1] + "\n")
 
 print("started")
 users = getusers()
 print("obtained users")
-knows_obs, knows_tru, knows_tar = create_knows(users)
+knows_obs, knows_tru = create_knows(users)
 print("obtained knows")
-saveKnows(knows_obs, knows_tru, knows_tar)
+saveKnows(knows_obs, knows_tru)
 print("saved knows")
 """
 reviews=[]
