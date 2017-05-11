@@ -62,7 +62,7 @@ public class EasyLP {
 		public boolean sqPotentials = true;
 		public Map weightMap = [
 			"Lived":20,
-			"Likes":10,
+//			"Likes":10,
 			"Transitivity":5,
 			"Symmetry":100,
 			"Prior":50
@@ -79,7 +79,7 @@ public class EasyLP {
 			this.outputPath = cb.getString('experiment.output.outputdir', Paths.get('output', this.experimentName).toString());
 
 			this.weightMap["Lived"] = cb.getInteger('model.weights.lived', weightMap["Lived"]);
-			this.weightMap["Likes"] = cb.getInteger('model.weights.likes', weightMap["Likes"]);
+			//this.weightMap["Likes"] = cb.getInteger('model.weights.likes', weightMap["Likes"]);
 			this.weightMap["Transitivity"] = cb.getInteger('model.weights.transitivity', weightMap["Transitivity"]);
 			this.weightMap["Symmetry"] = cb.getInteger('model.weights.symmetry', weightMap["Symmetry"]);
 			this.weightMap["Prior"] = cb.getInteger('model.weights.prior', weightMap["Prior"]);
@@ -100,7 +100,7 @@ public class EasyLP {
 	 */
 	private void definePredicates() {
 		model.add predicate: "Lived", types: [ConstantType.UniqueID, ConstantType.UniqueID];
-		model.add predicate: "Likes", types: [ConstantType.UniqueID, ConstantType.UniqueID];
+		//model.add predicate: "Likes", types: [ConstantType.UniqueID, ConstantType.UniqueID];
 		model.add predicate: "Knows", types: [ConstantType.UniqueID, ConstantType.UniqueID];
 	}
 
@@ -115,13 +115,13 @@ public class EasyLP {
 			squared: config.sqPotentials,
 			weight : config.weightMap["Lived"]
 		);
-
+		/*
 		model.add(
 			rule: ( Likes(P1,L) & Likes(P2,L) & (P1-P2) ) >> Knows(P1,P2),
 			squared: config.sqPotentials,
 			weight : config.weightMap["Likes"]
 		);
-
+		*/
 		if (config.useTransitivityRule) {
 			model.add(
 				rule: ( Knows(P1,P2) & Knows(P2,P3) & (P1-P3) ) >> Knows(P1,P3),
@@ -162,8 +162,8 @@ public class EasyLP {
 		Inserter inserter = ds.getInserter(Lived, obsPartition);
 		InserterUtils.loadDelimitedData(inserter, Paths.get(config.dataPath, "lived_obs.txt").toString());
 
-		inserter = ds.getInserter(Likes, obsPartition);
-		InserterUtils.loadDelimitedDataTruth(inserter, Paths.get(config.dataPath, "likes_obs.txt").toString());
+		//inserter = ds.getInserter(Likes, obsPartition);
+		//InserterUtils.loadDelimitedDataTruth(inserter, Paths.get(config.dataPath, "likes_obs.txt").toString());
 
 		inserter = ds.getInserter(Knows, obsPartition);
 		InserterUtils.loadDelimitedData(inserter, Paths.get(config.dataPath, "knows_obs.txt").toString());
@@ -182,7 +182,7 @@ public class EasyLP {
 		log.info("Starting inference");
 
 		Date infStart = new Date();
-		HashSet closed = new HashSet<StandardPredicate>([Lived, Likes]);
+		HashSet closed = new HashSet<StandardPredicate>([Lived]);
 		Database inferDB = ds.getDatabase(targetsPartition, closed, obsPartition);
 		MPEInference mpe = new MPEInference(model, inferDB, config.cb);
 		mpe.mpeInference();
