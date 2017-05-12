@@ -1,0 +1,80 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building easylp 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ easylp ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ easylp ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Using Groovy-Eclipse compiler to compile both Java and Groovy files
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 2.729 s
+[INFO] Finished at: 2017-05-11T18:08:20-07:00
+[INFO] Final Memory: 18M/731M
+[INFO] ------------------------------------------------------------------------
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ------------------------------------------------------------------------
+[INFO] Building easylp 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:build-classpath (default-cli) @ easylp ---
+[INFO] Wrote classpath file '/soe/shmahesh/workspace/psl/link_prediction/easy/groovy/classpath.out'.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 4.463 s
+[INFO] Finished at: 2017-05-11T18:08:25-07:00
+[INFO] Final Memory: 25M/962M
+[INFO] ------------------------------------------------------------------------
+0    [main] INFO  org.linqs.psl.config.ConfigManager  - Configuration file loaded: file:/soe/shmahesh/workspace/psl/link_prediction/easy/groovy/target/classes/psl.properties
+64   [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.experiment.name. Returning default of default.
+71   [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.experiment.dbpath. Returning default of /tmp.
+71   [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.experiment.data.path. Returning default of ../data.
+85   [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.experiment.output.outputdir. Returning default of output/default.
+95   [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.model.weights.lived. Returning default of 20.
+96   [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.model.weights.transitivity. Returning default of 5.
+96   [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.model.weights.symmetry. Returning default of 100.
+96   [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.model.weights.prior. Returning default of 50.
+97   [main] INFO  org.linqs.psl.config.ConfigManager  - Found value false for option easylp.model.rule.transitivity.
+98   [main] INFO  org.linqs.psl.config.ConfigManager  - Found value false for option easylp.model.rule.symmetry.
+419  [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.rdbmsdatastore.valuecolumn. Returning default of truth.
+419  [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.rdbmsdatastore.confidencecolumn. Returning default of confidence.
+419  [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.rdbmsdatastore.partitioncolumn. Returning default of partition.
+445  [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.rdbmsdatastore.usestringids. Returning default of true.
+450  [main] DEBUG org.linqs.psl.database.rdbms.RDBMSDataStore  - Registered 0 pre-existing predicates from RDBMS.
+546  [main] INFO  org.linqs.psl.example.easylp.EasyLP  - Running experiment default
+550  [main] WARN  org.linqs.psl.database.rdbms.RDBMSDataStoreMetadata  - Determining max partition, no partitions found null
+595  [main] INFO  org.linqs.psl.example.easylp.EasyLP  - Defining model rules
+657  [main] DEBUG org.linqs.psl.example.easylp.EasyLP  - model: Model:
+20.0: ( ( LIVED(P1, L) & LIVED(P2, L) ) & (P1 != P2) ) >> KNOWS(P1, P2) ^2
+50.0: ~( KNOWS(P1, P2) ) ^2
+657  [main] INFO  org.linqs.psl.example.easylp.EasyLP  - Loading data into database
+40200 [main] INFO  org.linqs.psl.example.easylp.EasyLP  - Starting inference
+40247 [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.mpeinference.reasoner. Returning default of org.linqs.psl.reasoner.admm.ADMMReasonerFactory@1c852c0f.
+40251 [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.admmreasoner.maxiterations. Returning default of 25000.
+40251 [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.admmreasoner.stepsize. Returning default of 1.0.
+40251 [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.admmreasoner.epsilonabs. Returning default of 1.0E-5.
+40251 [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.admmreasoner.epsilonrel. Returning default of 0.001.
+40251 [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.admmreasoner.stopcheck. Returning default of 1.
+40253 [main] INFO  org.linqs.psl.config.ConfigManager  - No value found for option easylp.admmreasoner.numthreads. Returning default of 32.
+40809 [main] INFO  org.linqs.psl.application.inference.MPEInference  - Grounding out model.
+46167 [main] DEBUG org.linqs.psl.model.rule.logical.AbstractLogicalRule  - Grounded 162108 instances of rule 20.0: ( ( LIVED(P1, L) & LIVED(P2, L) ) & (P1 != P2) ) >> KNOWS(P1, P2) ^2
+49007 [main] DEBUG org.linqs.psl.model.rule.logical.AbstractLogicalRule  - Grounded 184949 instances of rule 50.0: ~( KNOWS(P1, P2) ) ^2
+49009 [main] INFO  org.linqs.psl.application.inference.MPEInference  - Beginning inference.
+49009 [main] DEBUG org.linqs.psl.reasoner.admm.ADMMReasoner  - (Re)building reasoner data structures
+49011 [main] DEBUG org.linqs.psl.reasoner.admm.ADMMReasoner  - Initializing objective terms for 347057 ground kernels
+49647 [main] DEBUG org.linqs.psl.reasoner.admm.ADMMReasoner  - Performing optimization with 184949 variables and 347057 terms.
+57514 [main] INFO  org.linqs.psl.reasoner.admm.ADMMReasoner  - Optimization completed in  467 iterations. Primal res.: 0.19883395901425444, Dual res.: 0.001285566212146915
+57730 [main] INFO  org.linqs.psl.application.inference.MPEInference  - Inference complete. Writing results to Database.
+121241 [main] INFO  org.linqs.psl.example.easylp.EasyLP  - Finished inference in 1 minutes, 21.025 seconds
+158578 [main] INFO  org.linqs.psl.example.easylp.EasyLP  - MSE: 0.09904369751621188
+158585 [main] INFO  org.linqs.psl.example.easylp.EasyLP  - Accuracy 0.9209133328647356, Error 14627.0
+158588 [main] INFO  org.linqs.psl.example.easylp.EasyLP  - Positive Class: precision 0.08472622478386167, recall 0.06634322464176916
+158588 [main] INFO  org.linqs.psl.example.easylp.EasyLP  - Negative Class Stats: precision 0.9535135863916993, recall 0.0

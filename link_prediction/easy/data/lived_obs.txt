@@ -1,3 +1,8 @@
+EZmocAborM6z66rTzeZxzQ	North Las Vegas
+EZmocAborM6z66rTzeZxzQ	Nellis AFB
+EZmocAborM6z66rTzeZxzQ	Stuttgart
+EZmocAborM6z66rTzeZxzQ	Las Vegas
+EZmocAborM6z66rTzeZxzQ	Henderson
 jVYzrVblDFSuL3GHtt8ZSA	Markham
 jVYzrVblDFSuL3GHtt8ZSA	Toronto
 jVYzrVblDFSuL3GHtt8ZSA	Mississauga
@@ -213,6 +218,16 @@ wZPizeBxMAyOSl0M0zuCjg	Las Vegas
 wZPizeBxMAyOSl0M0zuCjg	Montréal
 3mNz5nQFTIBQm0oU5mBR0w	Las Vegas
 3mNz5nQFTIBQm0oU5mBR0w	Phoenix
+mFwRTTDW0Yr-rFkTF2cFsw	Toronto
+mFwRTTDW0Yr-rFkTF2cFsw	Scarborough
+mFwRTTDW0Yr-rFkTF2cFsw	East York
+mFwRTTDW0Yr-rFkTF2cFsw	North York
+mFwRTTDW0Yr-rFkTF2cFsw	Richmond Hill
+mFwRTTDW0Yr-rFkTF2cFsw	Outremont
+mFwRTTDW0Yr-rFkTF2cFsw	Montréal
+mFwRTTDW0Yr-rFkTF2cFsw	Montreal
+mFwRTTDW0Yr-rFkTF2cFsw	Thornhill
+mFwRTTDW0Yr-rFkTF2cFsw	Markham
 o4tYl3Hz0oDfpNn4k02DCw	Las Vegas
 o4tYl3Hz0oDfpNn4k02DCw	Henderson
 o4tYl3Hz0oDfpNn4k02DCw	Scottsdale
@@ -223,6 +238,26 @@ o4tYl3Hz0oDfpNn4k02DCw	Mesa
 B7ecAeAIrXg7sgmabS38pg	Scottsdale
 B7ecAeAIrXg7sgmabS38pg	Phoenix
 B7ecAeAIrXg7sgmabS38pg	Las Vegas
+OapLWhQI4_Gm32-nYbHmUA	Las Vegas
+OapLWhQI4_Gm32-nYbHmUA	Tempe
+OapLWhQI4_Gm32-nYbHmUA	Scottsdale
+OapLWhQI4_Gm32-nYbHmUA	Cave Creek
+OapLWhQI4_Gm32-nYbHmUA	Phoenix
+OapLWhQI4_Gm32-nYbHmUA	Carefree
+OapLWhQI4_Gm32-nYbHmUA	Chandler
+135DbbQnr3BEkQbBzZ9T1A	Ambridge
+135DbbQnr3BEkQbBzZ9T1A	Lower Lawrenceville
+135DbbQnr3BEkQbBzZ9T1A	Oakdale
+135DbbQnr3BEkQbBzZ9T1A	Homestead
+135DbbQnr3BEkQbBzZ9T1A	Carnegie
+135DbbQnr3BEkQbBzZ9T1A	West Mifflin
+135DbbQnr3BEkQbBzZ9T1A	South Park
+135DbbQnr3BEkQbBzZ9T1A	Monroeville
+135DbbQnr3BEkQbBzZ9T1A	Pittsburgh
+135DbbQnr3BEkQbBzZ9T1A	North Huntingdon
+135DbbQnr3BEkQbBzZ9T1A	Kent
+135DbbQnr3BEkQbBzZ9T1A	Swissvale
+135DbbQnr3BEkQbBzZ9T1A	Coraopolis
 UmXzwFM2OkZHWJ5cJZlqkg	Gilbert
 UmXzwFM2OkZHWJ5cJZlqkg	Peoria
 UmXzwFM2OkZHWJ5cJZlqkg	Tempe
@@ -235,6 +270,25 @@ UmXzwFM2OkZHWJ5cJZlqkg	El Mirage
 UmXzwFM2OkZHWJ5cJZlqkg	Chandler
 CIZGlEw-Bp0rmkP8M6yQ9Q	Las Vegas
 CIZGlEw-Bp0rmkP8M6yQ9Q	Charlotte
+PeLGa5vUR8_mcsn-fn42Jg	Gilbert
+PeLGa5vUR8_mcsn-fn42Jg	Fountain Hills
+PeLGa5vUR8_mcsn-fn42Jg	Peoria
+PeLGa5vUR8_mcsn-fn42Jg	Lakewood
+PeLGa5vUR8_mcsn-fn42Jg	Charlotte
+PeLGa5vUR8_mcsn-fn42Jg	Las Vegas
+PeLGa5vUR8_mcsn-fn42Jg	Tempe
+PeLGa5vUR8_mcsn-fn42Jg	Scottsdale
+PeLGa5vUR8_mcsn-fn42Jg	Avondale
+PeLGa5vUR8_mcsn-fn42Jg	Cave Creek
+PeLGa5vUR8_mcsn-fn42Jg	Paradise Valley
+PeLGa5vUR8_mcsn-fn42Jg	Cleveland
+PeLGa5vUR8_mcsn-fn42Jg	Phoenix
+PeLGa5vUR8_mcsn-fn42Jg	Glendale
+PeLGa5vUR8_mcsn-fn42Jg	Avon Lake
+PeLGa5vUR8_mcsn-fn42Jg	Mesa
+PeLGa5vUR8_mcsn-fn42Jg	Boulder City
+PeLGa5vUR8_mcsn-fn42Jg	Carefree
+PeLGa5vUR8_mcsn-fn42Jg	Chandler
 zFYs8gSUYDvXkb6O7YkRkw	Tolleson
 zFYs8gSUYDvXkb6O7YkRkw	Gilbert
 zFYs8gSUYDvXkb6O7YkRkw	Peoria
@@ -251,6 +305,23 @@ zFYs8gSUYDvXkb6O7YkRkw	Glendale
 zFYs8gSUYDvXkb6O7YkRkw	Goodyear
 zFYs8gSUYDvXkb6O7YkRkw	Mesa
 zFYs8gSUYDvXkb6O7YkRkw	Chandler
+8SgjU2fID9VqKQooFt1DIQ	Gilbert
+8SgjU2fID9VqKQooFt1DIQ	Las Vegas
+8SgjU2fID9VqKQooFt1DIQ	Tempe
+8SgjU2fID9VqKQooFt1DIQ	Scottsdale
+8SgjU2fID9VqKQooFt1DIQ	Avondale
+8SgjU2fID9VqKQooFt1DIQ	Phoenix
+8SgjU2fID9VqKQooFt1DIQ	Glendale
+8SgjU2fID9VqKQooFt1DIQ	Mesa
+8SgjU2fID9VqKQooFt1DIQ	Chandler
+NwVyki35xOcaxhMzHNtHDQ	Ingliston
+NwVyki35xOcaxhMzHNtHDQ	Edinburgh
+NwVyki35xOcaxhMzHNtHDQ	Blackness
+NwVyki35xOcaxhMzHNtHDQ	Kirkcaldy
+NwVyki35xOcaxhMzHNtHDQ	Stockbridge
+NwVyki35xOcaxhMzHNtHDQ	Aberdour
+NwVyki35xOcaxhMzHNtHDQ	Dunfermline
+NwVyki35xOcaxhMzHNtHDQ	Midlothian
 rCWrxuRC8_pfagpchtHp6A	Millvale
 rCWrxuRC8_pfagpchtHp6A	Plum
 rCWrxuRC8_pfagpchtHp6A	Finleyville
@@ -338,6 +409,29 @@ AyYKTOCL5qM8589oBsqbfA	West Homestead
 AyYKTOCL5qM8589oBsqbfA	Amherst
 IcQJ9Ewki9Bu0cR-D__pXg	Stuttgart
 IcQJ9Ewki9Bu0cR-D__pXg	Las Vegas
+f-ysez9SJSosLUON1BihWg	North Olmsted
+f-ysez9SJSosLUON1BihWg	Peninsula
+f-ysez9SJSosLUON1BihWg	Copley
+f-ysez9SJSosLUON1BihWg	West Akron
+f-ysez9SJSosLUON1BihWg	Beachwood
+f-ysez9SJSosLUON1BihWg	Medina
+f-ysez9SJSosLUON1BihWg	Cleveland Heights
+f-ysez9SJSosLUON1BihWg	Fairlawn
+f-ysez9SJSosLUON1BihWg	Brunswick
+f-ysez9SJSosLUON1BihWg	Strongsville
+f-ysez9SJSosLUON1BihWg	Westlake
+f-ysez9SJSosLUON1BihWg	Cuyahoga Falls
+f-ysez9SJSosLUON1BihWg	Brooklyn
+f-ysez9SJSosLUON1BihWg	Berea
+f-ysez9SJSosLUON1BihWg	Medina Township
+f-ysez9SJSosLUON1BihWg	Lakewood
+f-ysez9SJSosLUON1BihWg	North Royalton
+f-ysez9SJSosLUON1BihWg	Valley City
+f-ysez9SJSosLUON1BihWg	Cleveland
+f-ysez9SJSosLUON1BihWg	Woodmere
+f-ysez9SJSosLUON1BihWg	Kent
+f-ysez9SJSosLUON1BihWg	Bath
+Khh_zoydh8gcPT-rQtXFBg	Las Vegas
 NfU0zDaTMEQ4-X9dbQWd9A	North Olmsted
 NfU0zDaTMEQ4-X9dbQWd9A	Chagrin Falls
 NfU0zDaTMEQ4-X9dbQWd9A	Beachwood
@@ -483,6 +577,10 @@ RBZ_kMjowV0t6_nv2UKaDQ	Glendale
 RBZ_kMjowV0t6_nv2UKaDQ	Mesa
 RBZ_kMjowV0t6_nv2UKaDQ	Carefree
 RBZ_kMjowV0t6_nv2UKaDQ	Chandler
+oKrct4Hc8hZNMYXecitLCw	Boulder City
+oKrct4Hc8hZNMYXecitLCw	Toronto
+oKrct4Hc8hZNMYXecitLCw	Las Vegas
+oKrct4Hc8hZNMYXecitLCw	Mississauga
 6tbXpUIU6upoeqWNDo9k_A	Las Vegas
 6tbXpUIU6upoeqWNDo9k_A	Mississauga
 6tbXpUIU6upoeqWNDo9k_A	McMurray
@@ -530,6 +628,13 @@ deL6e_z9xqZTIODKqnvRXQ	South Las Vegas
 deL6e_z9xqZTIODKqnvRXQ	North Las Vegas
 deL6e_z9xqZTIODKqnvRXQ	Las Vegas
 deL6e_z9xqZTIODKqnvRXQ	Henderson
+Xwnf20FKuikiHcSpcEbpKQ	Etobicoke
+Xwnf20FKuikiHcSpcEbpKQ	Toronto
+Xwnf20FKuikiHcSpcEbpKQ	Las Vegas
+Xwnf20FKuikiHcSpcEbpKQ	Mississauga
+Xwnf20FKuikiHcSpcEbpKQ	Las  Vegas
+Xwnf20FKuikiHcSpcEbpKQ	Glendale
+Xwnf20FKuikiHcSpcEbpKQ	Pittsburgh
 A0j21z2Q1HGic7jW6e9h7A	Gilbert
 A0j21z2Q1HGic7jW6e9h7A	Fountain Hills
 A0j21z2Q1HGic7jW6e9h7A	Peoria
@@ -614,6 +719,15 @@ GGTF7hnQi6D5W77_qiKlqg	Lowesville
 GGTF7hnQi6D5W77_qiKlqg	Davidson
 2l0O1EI1m0yWjFo2zSt71w	Las Vegas
 2l0O1EI1m0yWjFo2zSt71w	Phoenix
+ysCBsXWPB-LAiewVS3jZfQ	Peoria
+ysCBsXWPB-LAiewVS3jZfQ	Las Vegas
+ysCBsXWPB-LAiewVS3jZfQ	Henderson
+ysCBsXWPB-LAiewVS3jZfQ	Scottsdale
+ysCBsXWPB-LAiewVS3jZfQ	Montréal
+ysCBsXWPB-LAiewVS3jZfQ	Montreal
+ysCBsXWPB-LAiewVS3jZfQ	Cleveland
+ysCBsXWPB-LAiewVS3jZfQ	Phoenix
+ysCBsXWPB-LAiewVS3jZfQ	St Bernard de Lacolle
 UYcmGbelzRa0Q6JqzLoguw	Summerlin
 UYcmGbelzRa0Q6JqzLoguw	Las Vegas
 UYcmGbelzRa0Q6JqzLoguw	Henderson
@@ -626,6 +740,11 @@ UYcmGbelzRa0Q6JqzLoguw	Spring Valley
 m6RU5Ov4C1uMQRr3J0Fvfg	Cleveland
 m6RU5Ov4C1uMQRr3J0Fvfg	Boulder City
 m6RU5Ov4C1uMQRr3J0Fvfg	Las Vegas
+QtGXr3Y74fnWfdWpGJIldw	North Las Vegas
+QtGXr3Y74fnWfdWpGJIldw	Las Vegas
+QtGXr3Y74fnWfdWpGJIldw	Henderson
+YWWDhFvemd93HKof8D-QoA	Boulder City
+YWWDhFvemd93HKof8D-QoA	Las Vegas
 F_5_UNX-wrAFCXuAkBZRDw	Las Vegas
 rMsB82tk9uOB6JumPMgczg	Gilbert
 rMsB82tk9uOB6JumPMgczg	Peoria
@@ -678,7 +797,30 @@ AHRrG3T1gJpHvtpZ-K0G_g	Montréal
 AHRrG3T1gJpHvtpZ-K0G_g	Phoenix
 AHRrG3T1gJpHvtpZ-K0G_g	Pittsburgh
 AHRrG3T1gJpHvtpZ-K0G_g	Dorval
+1kdfj_PaRk8i870ghdIvXg	Lakewood
+1kdfj_PaRk8i870ghdIvXg	Charlotte
+1kdfj_PaRk8i870ghdIvXg	Westlake
+1kdfj_PaRk8i870ghdIvXg	North Olmsted
+1kdfj_PaRk8i870ghdIvXg	Las Vegas
+1kdfj_PaRk8i870ghdIvXg	Cuyahoga Heights
+1kdfj_PaRk8i870ghdIvXg	Euclid
+1kdfj_PaRk8i870ghdIvXg	Hinckley
+1kdfj_PaRk8i870ghdIvXg	Willoughby Hills
+1kdfj_PaRk8i870ghdIvXg	Beachwood
+1kdfj_PaRk8i870ghdIvXg	Cleveland
+1kdfj_PaRk8i870ghdIvXg	Berea
+1kdfj_PaRk8i870ghdIvXg	Fairview Park
+1kdfj_PaRk8i870ghdIvXg	Independence
+1kdfj_PaRk8i870ghdIvXg	Avon
+1kdfj_PaRk8i870ghdIvXg	Woodmere
+Yjer78RnYr7OCzirgdcOaw	Edinburgh
+Yjer78RnYr7OCzirgdcOaw	Cleveland
+Yjer78RnYr7OCzirgdcOaw	Las Vegas
+Yjer78RnYr7OCzirgdcOaw	Montréal
+Yjer78RnYr7OCzirgdcOaw	Stockbridge
 WDpvs6U_TCx4799oxXcnag	Las Vegas
+40MywB-9aaAPmqRkThlaWw	Scottsdale
+40MywB-9aaAPmqRkThlaWw	Las Vegas
 8DEyKVyplnOcSKx39vatbg	North Las Vegas
 8DEyKVyplnOcSKx39vatbg	Boulder City
 8DEyKVyplnOcSKx39vatbg	Las Vegas
@@ -703,6 +845,10 @@ qlC607Cyp0Mj91vDFvkp3Q	Mint Hill
 qlC607Cyp0Mj91vDFvkp3Q	Davidson
 qlC607Cyp0Mj91vDFvkp3Q	Avon
 qlC607Cyp0Mj91vDFvkp3Q	Indian Trail
+oeFiWvoOG0hpMOXXxblfyQ	Montreal
+oeFiWvoOG0hpMOXXxblfyQ	Cleveland
+oeFiWvoOG0hpMOXXxblfyQ	Las Vegas
+oeFiWvoOG0hpMOXXxblfyQ	Montréal
 ZcFB7xOpJufgX9hHPFh9mQ	Scottsdale
 ZcFB7xOpJufgX9hHPFh9mQ	Toronto
 ZcFB7xOpJufgX9hHPFh9mQ	Las Vegas
@@ -747,6 +893,17 @@ BjtJ3VkMOxV2Lan037AFuw	Green Tree
 BjtJ3VkMOxV2Lan037AFuw	Woodmere
 BjtJ3VkMOxV2Lan037AFuw	McCandless Township
 BjtJ3VkMOxV2Lan037AFuw	Bedford
+RJrGgtBXkpX2oEHM4hSqXg	Las Vegas
+RJrGgtBXkpX2oEHM4hSqXg	Henderson
+RJrGgtBXkpX2oEHM4hSqXg	Chagrin Falls
+RJrGgtBXkpX2oEHM4hSqXg	Kirtland
+RJrGgtBXkpX2oEHM4hSqXg	Warrensville Heights
+RJrGgtBXkpX2oEHM4hSqXg	Beachwood
+RJrGgtBXkpX2oEHM4hSqXg	Cleveland Heights
+RJrGgtBXkpX2oEHM4hSqXg	Cleveland
+RJrGgtBXkpX2oEHM4hSqXg	Solon
+RJrGgtBXkpX2oEHM4hSqXg	Twinsburg
+RJrGgtBXkpX2oEHM4hSqXg	Hudson
 bVthsfeUU3Bd5AeJLqKT-w	Tempe
 bVthsfeUU3Bd5AeJLqKT-w	Toronto
 bVthsfeUU3Bd5AeJLqKT-w	Las Vegas
@@ -765,6 +922,51 @@ UVxY0iyPaqY7s4BSFtt-xA	Goodyear
 UVxY0iyPaqY7s4BSFtt-xA	Longueuil
 UVxY0iyPaqY7s4BSFtt-xA	Saint-Laurent
 UVxY0iyPaqY7s4BSFtt-xA	Dorval
+bLbSNkLggFnqwNNzzq-Ijw	Summerlin
+bLbSNkLggFnqwNNzzq-Ijw	Toronto
+bLbSNkLggFnqwNNzzq-Ijw	Las Vegas
+bLbSNkLggFnqwNNzzq-Ijw	Henderson
+bLbSNkLggFnqwNNzzq-Ijw	Tempe
+bLbSNkLggFnqwNNzzq-Ijw	Scottsdale
+bLbSNkLggFnqwNNzzq-Ijw	Clark county
+bLbSNkLggFnqwNNzzq-Ijw	North Las Vegas
+bLbSNkLggFnqwNNzzq-Ijw	Las  Vegas
+bLbSNkLggFnqwNNzzq-Ijw	Phoenix
+bLbSNkLggFnqwNNzzq-Ijw	Boulder City
+bLbSNkLggFnqwNNzzq-Ijw	Blue Diamond
+bLbSNkLggFnqwNNzzq-Ijw	Sloan
+ACwBMSJzgW6vOvV7vOrk8Q	East Liberty
+ACwBMSJzgW6vOvV7vOrk8Q	Plum
+ACwBMSJzgW6vOvV7vOrk8Q	Chateau
+ACwBMSJzgW6vOvV7vOrk8Q	West Mifflin
+ACwBMSJzgW6vOvV7vOrk8Q	Monroeville
+ACwBMSJzgW6vOvV7vOrk8Q	North Huntingdon
+ACwBMSJzgW6vOvV7vOrk8Q	Brookline
+ACwBMSJzgW6vOvV7vOrk8Q	Cheswick
+ACwBMSJzgW6vOvV7vOrk8Q	Leetsdale
+ACwBMSJzgW6vOvV7vOrk8Q	Lower Lawrenceville
+ACwBMSJzgW6vOvV7vOrk8Q	Pleasant Hills
+ACwBMSJzgW6vOvV7vOrk8Q	Sewickley
+ACwBMSJzgW6vOvV7vOrk8Q	Carnegie
+ACwBMSJzgW6vOvV7vOrk8Q	Pittsburgh
+ACwBMSJzgW6vOvV7vOrk8Q	Bethel Park
+ACwBMSJzgW6vOvV7vOrk8Q	North Versailles
+ACwBMSJzgW6vOvV7vOrk8Q	Swissvale
+ACwBMSJzgW6vOvV7vOrk8Q	Coraopolis
+ACwBMSJzgW6vOvV7vOrk8Q	Las Vegas
+ACwBMSJzgW6vOvV7vOrk8Q	Brentwood
+ACwBMSJzgW6vOvV7vOrk8Q	Murrysville
+ACwBMSJzgW6vOvV7vOrk8Q	East Mc Keesport
+ACwBMSJzgW6vOvV7vOrk8Q	Moon Township
+ACwBMSJzgW6vOvV7vOrk8Q	Blawnox
+ACwBMSJzgW6vOvV7vOrk8Q	Penn Hills
+ACwBMSJzgW6vOvV7vOrk8Q	Irwin
+ACwBMSJzgW6vOvV7vOrk8Q	Munhall
+ACwBMSJzgW6vOvV7vOrk8Q	Homestead
+ACwBMSJzgW6vOvV7vOrk8Q	Glenshaw
+ACwBMSJzgW6vOvV7vOrk8Q	West Homestead
+ACwBMSJzgW6vOvV7vOrk8Q	Wilkinsburg
+7ZZnTnkP8mDWGmTLoAwS4w	Edinburgh
 EXKDLuYoZUKUNNNYA7TlGQ	Gilbert
 EXKDLuYoZUKUNNNYA7TlGQ	Tempe
 EXKDLuYoZUKUNNNYA7TlGQ	Scottsdale
@@ -795,6 +997,13 @@ YttDgOC9AlM4HcAlDsbB2A	Paradise
 YttDgOC9AlM4HcAlDsbB2A	Phoenix
 YttDgOC9AlM4HcAlDsbB2A	Mesa
 YttDgOC9AlM4HcAlDsbB2A	Pittsburgh
+E3dfnSs-DAQCw4Qf7J6zGg	Montréal
+Z0yHptbS93271s_h6LJOMw	Newmarket
+Z0yHptbS93271s_h6LJOMw	Henderson
+Z0yHptbS93271s_h6LJOMw	Las Vegas
+Z0yHptbS93271s_h6LJOMw	Toronto
+Z0yHptbS93271s_h6LJOMw	Vaughan
+Z0yHptbS93271s_h6LJOMw	Phoenix
 om5ZiponkpRqUNa3pVPiRg	Toronto
 om5ZiponkpRqUNa3pVPiRg	Las Vegas
 om5ZiponkpRqUNa3pVPiRg	Middleburg Heights
@@ -825,8 +1034,14 @@ w-w-k-QXosIKQ8HQVwU6IQ	Pittsburgh
 w-w-k-QXosIKQ8HQVwU6IQ	Valley View
 w-w-k-QXosIKQ8HQVwU6IQ	Middleton
 w-w-k-QXosIKQ8HQVwU6IQ	Chandler
+NoOaVw8YAe4SlgWGLWMY8Q	Edinburgh
+NoOaVw8YAe4SlgWGLWMY8Q	Las Vegas
 RgDVC3ZUBqpEe6Y1kPhIpw	Cleveland
 RgDVC3ZUBqpEe6Y1kPhIpw	Charlotte
+jbGIMoecQm9zG8Ppmx-Y-Q	Las Vegas
+D0CNNFo5-ut11tMQ1__Rxw	Pittsburgh
+D0CNNFo5-ut11tMQ1__Rxw	Scottsdale
+D0CNNFo5-ut11tMQ1__Rxw	Las Vegas
 LNPyE5X1K5B_flcTCH9StQ	Las Vegas
 LNPyE5X1K5B_flcTCH9StQ	Henderson
 LNPyE5X1K5B_flcTCH9StQ	North Las Vegas
@@ -834,6 +1049,8 @@ LNPyE5X1K5B_flcTCH9StQ	Phoenix
 LNPyE5X1K5B_flcTCH9StQ	Goodyear
 LNPyE5X1K5B_flcTCH9StQ	Boulder City
 LNPyE5X1K5B_flcTCH9StQ	Blue Diamond
+rplzMW65JoaMhETvkAKacQ	Mesa
+rplzMW65JoaMhETvkAKacQ	Charlotte
 ACUVZ4SiN0gni7dzVDm9EQ	Toronto
 ACUVZ4SiN0gni7dzVDm9EQ	Las Vegas
 ACUVZ4SiN0gni7dzVDm9EQ	Mississauga
@@ -844,9 +1061,16 @@ ACUVZ4SiN0gni7dzVDm9EQ	Madison
 ACUVZ4SiN0gni7dzVDm9EQ	Montréal
 ACUVZ4SiN0gni7dzVDm9EQ	Montreal
 ACUVZ4SiN0gni7dzVDm9EQ	Phoenix
+uG35h72BAMutvXAWdRpqCQ	Henderson
+uG35h72BAMutvXAWdRpqCQ	Las Vegas
+uG35h72BAMutvXAWdRpqCQ	Scottsdale
+uG35h72BAMutvXAWdRpqCQ	Phoenix
+uG35h72BAMutvXAWdRpqCQ	Glendale
+uG35h72BAMutvXAWdRpqCQ	Chandler
 qI3uzegMdq3q3WxAajECGw	Pittsburgh
 qI3uzegMdq3q3WxAajECGw	Cleveland
 qI3uzegMdq3q3WxAajECGw	Charlotte
+6ce1NSAUt1Kr7efrLI8XQA	Las Vegas
 P6_r7O8zEjnxTSBkS6WYfg	Las Vegas
 P6_r7O8zEjnxTSBkS6WYfg	Montréal
 P6_r7O8zEjnxTSBkS6WYfg	Montreal
@@ -879,9 +1103,33 @@ pou3BbKsIozfH50rxmnMew	Cleveland
 pou3BbKsIozfH50rxmnMew	Phoenix
 pou3BbKsIozfH50rxmnMew	Pittsburgh
 pou3BbKsIozfH50rxmnMew	Broadview Heights
+bMvyfWmps1Cc_AOgZLCZrg	Pittsburgh
+bMvyfWmps1Cc_AOgZLCZrg	Scottsdale
+bMvyfWmps1Cc_AOgZLCZrg	Las Vegas
+bMvyfWmps1Cc_AOgZLCZrg	Sewickley
 1vXJWH7L0IMEz5-8aU3SOA	Scottsdale
 1vXJWH7L0IMEz5-8aU3SOA	Las Vegas
 1vXJWH7L0IMEz5-8aU3SOA	Phoenix
+Dqb34bnL4dzwZvySx--qqQ	Ross
+Dqb34bnL4dzwZvySx--qqQ	Lakewood
+Dqb34bnL4dzwZvySx--qqQ	Las Vegas
+Dqb34bnL4dzwZvySx--qqQ	Westlake
+Dqb34bnL4dzwZvySx--qqQ	North Olmsted
+Dqb34bnL4dzwZvySx--qqQ	Middleburg Heights
+Dqb34bnL4dzwZvySx--qqQ	columbia station
+Dqb34bnL4dzwZvySx--qqQ	Lorain
+Dqb34bnL4dzwZvySx--qqQ	Beachwood
+Dqb34bnL4dzwZvySx--qqQ	Berea
+Dqb34bnL4dzwZvySx--qqQ	Cleveland
+Dqb34bnL4dzwZvySx--qqQ	Fairview Park
+Dqb34bnL4dzwZvySx--qqQ	University Heights
+Dqb34bnL4dzwZvySx--qqQ	Rocky River
+Dqb34bnL4dzwZvySx--qqQ	Independence
+Dqb34bnL4dzwZvySx--qqQ	Avon
+Dqb34bnL4dzwZvySx--qqQ	Brunswick
+Dqb34bnL4dzwZvySx--qqQ	Strongsville
+Dqb34bnL4dzwZvySx--qqQ	N. Olmsted
+Dqb34bnL4dzwZvySx--qqQ	Amherst
 6EWIu6Ea04qcFAL3XSalvQ	Edinburgh
 6EWIu6Ea04qcFAL3XSalvQ	Kirkcaldy
 6EWIu6Ea04qcFAL3XSalvQ	Stockbridge
@@ -944,6 +1192,15 @@ wTfb2nfzPIyFcYQArdPtuQ	Phoenix
 wTfb2nfzPIyFcYQArdPtuQ	Mesa
 wTfb2nfzPIyFcYQArdPtuQ	Carefree
 wTfb2nfzPIyFcYQArdPtuQ	Chandler
+P3usQcIegPCl-cdH4IDirg	Toronto
+P3usQcIegPCl-cdH4IDirg	Las Vegas
+P3usQcIegPCl-cdH4IDirg	Scarborough
+P3usQcIegPCl-cdH4IDirg	Mississauga
+P3usQcIegPCl-cdH4IDirg	North York
+P3usQcIegPCl-cdH4IDirg	Tempe
+P3usQcIegPCl-cdH4IDirg	Scottsdale
+P3usQcIegPCl-cdH4IDirg	Phoenix
+P3usQcIegPCl-cdH4IDirg	Chandler
 hE9FCBh0BPd2hEhTMNFp3A	Mesa
 hE9FCBh0BPd2hEhTMNFp3A	Gilbert
 hE9FCBh0BPd2hEhTMNFp3A	Tempe
@@ -958,6 +1215,18 @@ GFyA9ULGAeD-xZEPto2y7A	Woodbridge
 GFyA9ULGAeD-xZEPto2y7A	Scottsdale
 GFyA9ULGAeD-xZEPto2y7A	Montréal
 GFyA9ULGAeD-xZEPto2y7A	Phoenix
+sOzeK0dE0BYx4Mc8dmoenQ	Boulder City
+sOzeK0dE0BYx4Mc8dmoenQ	Las Vegas
+NNL1zLTP2J_SOputgoPYeQ	Toronto
+NNL1zLTP2J_SOputgoPYeQ	Charlotte
+NNL1zLTP2J_SOputgoPYeQ	Mississauga
+NNL1zLTP2J_SOputgoPYeQ	Las Vegas
+NNL1zLTP2J_SOputgoPYeQ	Homestead
+NNL1zLTP2J_SOputgoPYeQ	Cleveland Heights
+NNL1zLTP2J_SOputgoPYeQ	Cleveland
+NNL1zLTP2J_SOputgoPYeQ	West Mifflin
+NNL1zLTP2J_SOputgoPYeQ	Avon Lake
+NNL1zLTP2J_SOputgoPYeQ	Pittsburgh
 4ZfcCa4m5RWvO4EFzfYm1A	Toronto
 4ZfcCa4m5RWvO4EFzfYm1A	Las Vegas
 4ZfcCa4m5RWvO4EFzfYm1A	Charlotte
@@ -971,6 +1240,10 @@ G9Vb6yQ047TC3O_-GG4WZA	Paradise Valley
 G9Vb6yQ047TC3O_-GG4WZA	Tempe
 G9Vb6yQ047TC3O_-GG4WZA	Scottsdale
 G9Vb6yQ047TC3O_-GG4WZA	Las Vegas
+Y6XH1iNsuuGAcO5nODI6rg	Paradise
+Y6XH1iNsuuGAcO5nODI6rg	Las Vegas
+Rjd9Td7yYOqu0A1e2KDAyA	Las Vegas
+Rjd9Td7yYOqu0A1e2KDAyA	Henderson
 z8wN6EQuw_JF-zTjcNgsLw	Paradise
 z8wN6EQuw_JF-zTjcNgsLw	Las Vegas
 z8wN6EQuw_JF-zTjcNgsLw	Henderson
@@ -981,6 +1254,9 @@ qgXcgfdrk5tzmLBq4_h6mQ	Montral
 j14WgRoU_-2ZE1aw1dXrJg	Mint Hill
 j14WgRoU_-2ZE1aw1dXrJg	Charlotte
 j14WgRoU_-2ZE1aw1dXrJg	Phoenix
+I9PpxV1JrGATW-u3gew3Ew	Musselburgh
+I9PpxV1JrGATW-u3gew3Ew	Edinburgh
+I9PpxV1JrGATW-u3gew3Ew	Phoenix
 UsXqCXRZwSCSw0AT7y1uBg	Toronto
 UsXqCXRZwSCSw0AT7y1uBg	Tempe
 UsXqCXRZwSCSw0AT7y1uBg	Madison
@@ -997,6 +1273,11 @@ QnIrewrXxFnssw_gG1gF-Q	Las Vegas
 QnIrewrXxFnssw_gG1gF-Q	Madison
 nmqX1cxPOYHwql5e4U9LuA	Las Vegas
 nmqX1cxPOYHwql5e4U9LuA	Henderson
+nj3syiLs3lABLtPVyL0ivA	Scottsdale
+nj3syiLs3lABLtPVyL0ivA	Boulder City
+nj3syiLs3lABLtPVyL0ivA	Las Vegas
+nj3syiLs3lABLtPVyL0ivA	Phoenix
+nj3syiLs3lABLtPVyL0ivA	Chandler
 TJMgOTcm2ShyOpablSYbXA	Lakewood
 TJMgOTcm2ShyOpablSYbXA	Las Vegas
 TJMgOTcm2ShyOpablSYbXA	Middleburg Heights
@@ -1004,6 +1285,8 @@ TJMgOTcm2ShyOpablSYbXA	Montréal
 TJMgOTcm2ShyOpablSYbXA	Cleveland
 TJMgOTcm2ShyOpablSYbXA	Fairview Park
 TJMgOTcm2ShyOpablSYbXA	Pittsburgh
+uaFOvyGPRvSETSS6Lk8-5A	North Las Vegas
+uaFOvyGPRvSETSS6Lk8-5A	Las Vegas
 QdfFtp430K_-BP1GTPNnDg	Las Vegas
 -8EnCioUmDygAbsYZmTeRQ	Las Vegas
 -8EnCioUmDygAbsYZmTeRQ	Henderson
@@ -1030,29 +1313,64 @@ SdyaF3_mFMdCig_25qW7TQ	Stockbridge
 PhUqhfyk3jdaS0Xb619RJQ	Boulder City
 PhUqhfyk3jdaS0Xb619RJQ	Henderson
 PhUqhfyk3jdaS0Xb619RJQ	Las Vegas
+BZZKX1-LuWoruSstXPzanQ	Montréal
+IC0awH6Csw-25fQSfnwNiQ	Las Vegas
+a1cF0D4wG4h9QF37OEBdSw	Sun Prairie
+a1cF0D4wG4h9QF37OEBdSw	Middleton
+a1cF0D4wG4h9QF37OEBdSw	Madison
+a1cF0D4wG4h9QF37OEBdSw	De Forest
 a010w8zqtYr51YN1Fsh-wA	Scottsdale
 a010w8zqtYr51YN1Fsh-wA	Carefree
 a010w8zqtYr51YN1Fsh-wA	Cave Creek
 a010w8zqtYr51YN1Fsh-wA	Mentor
+d7D4dYzF6THtOx9imf-wPw	Champaign
+d7D4dYzF6THtOx9imf-wPw	Toronto
+d7D4dYzF6THtOx9imf-wPw	Las Vegas
+d7D4dYzF6THtOx9imf-wPw	Tempe
+d7D4dYzF6THtOx9imf-wPw	Cleveland Heights
+d7D4dYzF6THtOx9imf-wPw	Cleveland
+d7D4dYzF6THtOx9imf-wPw	Urbana
+d7D4dYzF6THtOx9imf-wPw	Pittsburgh
 djxnI8Ux8ZYQJhiOQkrRhA	Toronto
 djxnI8Ux8ZYQJhiOQkrRhA	Henderson
 djxnI8Ux8ZYQJhiOQkrRhA	Las Vegas
 djxnI8Ux8ZYQJhiOQkrRhA	Scottsdale
 djxnI8Ux8ZYQJhiOQkrRhA	Montréal
 djxnI8Ux8ZYQJhiOQkrRhA	Phoenix
+m5cBT7OYfn0HM0d-RCsdZQ	Las Vegas
+m5cBT7OYfn0HM0d-RCsdZQ	Madison
+p7OZx3RIeJPxSM4hP6wqEA	Las Vegas
+p7OZx3RIeJPxSM4hP6wqEA	Charlotte
 sIz02nAyQIrDtFavxZtfTQ	Inverness
 sIz02nAyQIrDtFavxZtfTQ	Edinburgh
 sIz02nAyQIrDtFavxZtfTQ	Phoenix
 sIz02nAyQIrDtFavxZtfTQ	Las Vegas
+EDBTE8HMO-iN5hAi9B382A	Toronto
+EDBTE8HMO-iN5hAi9B382A	Las Vegas
+EDBTE8HMO-iN5hAi9B382A	Mississauga
+EDBTE8HMO-iN5hAi9B382A	Tempe
+EDBTE8HMO-iN5hAi9B382A	Paradise Valley
+EDBTE8HMO-iN5hAi9B382A	Glendale
+zK4R5IFl5aBqePPEd0fvxw	Madison
+zK4R5IFl5aBqePPEd0fvxw	Las Vegas
+zK4R5IFl5aBqePPEd0fvxw	Middleton
 s8nkbQAlrVPfg1u4anGKtw	Tempe
 s8nkbQAlrVPfg1u4anGKtw	Scottsdale
 s8nkbQAlrVPfg1u4anGKtw	Las Vegas
 s8nkbQAlrVPfg1u4anGKtw	Montréal
+4VbB9qS2Xvk-bjAI1bNlGw	Toronto
+4VbB9qS2Xvk-bjAI1bNlGw	Charlotte
+4VbB9qS2Xvk-bjAI1bNlGw	Las Vegas
+4VbB9qS2Xvk-bjAI1bNlGw	Montréal
 St-BJl91Y8k1MUborKBRhA	Las Vegas
 W7ugM1NqQeB1Wj0DYE8TYw	Montreal
 W7ugM1NqQeB1Wj0DYE8TYw	Las Vegas
 W7ugM1NqQeB1Wj0DYE8TYw	Montréal
 W7ugM1NqQeB1Wj0DYE8TYw	Henderson
+lGj7s42BJx_Xg7ZgaO_dmA	North Las Vegas
+lGj7s42BJx_Xg7ZgaO_dmA	Green Valley
+lGj7s42BJx_Xg7ZgaO_dmA	Las Vegas
+lGj7s42BJx_Xg7ZgaO_dmA	Henderson
 -NbeVN5tnwdyYAvdNkKMjw	Las Vegas
 -NbeVN5tnwdyYAvdNkKMjw	Charlotte
 DOj9NanlJP3xntULCy5Uow	Charlotte
@@ -1061,12 +1379,30 @@ hBicl52tMVsTecdZSVL-lQ	Montreal
 hBicl52tMVsTecdZSVL-lQ	Toronto
 hBicl52tMVsTecdZSVL-lQ	Las Vegas
 hBicl52tMVsTecdZSVL-lQ	Montréal
+ILvXe0EWKAH45eyUUxlv0g	Henderson
+ILvXe0EWKAH45eyUUxlv0g	Las Vegas
+ILvXe0EWKAH45eyUUxlv0g	Tempe
+ILvXe0EWKAH45eyUUxlv0g	Paradise
+ILvXe0EWKAH45eyUUxlv0g	Phoenix
+ILvXe0EWKAH45eyUUxlv0g	Surprise
+ILvXe0EWKAH45eyUUxlv0g	Chandler
 Thc2zV-K-KLcvJn3fMPdqQ	Las Vegas
 Thc2zV-K-KLcvJn3fMPdqQ	Tempe
 Thc2zV-K-KLcvJn3fMPdqQ	Scottsdale
 Thc2zV-K-KLcvJn3fMPdqQ	Phoenix
 Thc2zV-K-KLcvJn3fMPdqQ	Glendale
 Thc2zV-K-KLcvJn3fMPdqQ	Mesa
+3wB-JjsUjkvdNUDRnChsVg	Charlotte
+3wB-JjsUjkvdNUDRnChsVg	Las Vegas
+3wB-JjsUjkvdNUDRnChsVg	Henderson
+3wB-JjsUjkvdNUDRnChsVg	Scottsdale
+3wB-JjsUjkvdNUDRnChsVg	McMurray
+3wB-JjsUjkvdNUDRnChsVg	Cave Creek
+3wB-JjsUjkvdNUDRnChsVg	North Las Vegas
+3wB-JjsUjkvdNUDRnChsVg	Phoenix
+3wB-JjsUjkvdNUDRnChsVg	Glendale
+3wB-JjsUjkvdNUDRnChsVg	Pittsburgh
+3wB-JjsUjkvdNUDRnChsVg	Boulder City
 BAm09ZyCIygB5iih92pnVw	Gilbert
 BAm09ZyCIygB5iih92pnVw	Las Vegas
 BAm09ZyCIygB5iih92pnVw	Henderson
@@ -1087,6 +1423,9 @@ CY9iLsE2z_yLhLqJdD1WGw	Mesa
 CY9iLsE2z_yLhLqJdD1WGw	Chandler
 pi1z1fB2kutuXcRFEwPIjQ	Charlotte
 pi1z1fB2kutuXcRFEwPIjQ	Phoenix
+HYQoxBC1y1DGPq6pGP09Tw	Tempe
+HYQoxBC1y1DGPq6pGP09Tw	Phoenix
+HYQoxBC1y1DGPq6pGP09Tw	Las Vegas
 A9RKvWz-as6hzSKS_xwVrw	Montreal
 A9RKvWz-as6hzSKS_xwVrw	Dorval
 A9RKvWz-as6hzSKS_xwVrw	Las Vegas
@@ -1099,6 +1438,8 @@ q_QQ5kBBwlCcbL1s4NVK3g	Toronto
 q_QQ5kBBwlCcbL1s4NVK3g	Montréal
 2esyx8s04Vrde3Pn8GMNsQ	Toronto
 2esyx8s04Vrde3Pn8GMNsQ	Phoenix
+izoKblvdpxcDkoEPAKJ7GQ	Stuttgart
+izoKblvdpxcDkoEPAKJ7GQ	Las Vegas
 QSA05SquUKJZnxasypxvjg	North Las Vegas
 QSA05SquUKJZnxasypxvjg	Toronto
 QSA05SquUKJZnxasypxvjg	Las Vegas
@@ -1115,6 +1456,8 @@ EiwxlbR8fb68lMgEXhcWKA	Scottsdale
 EiwxlbR8fb68lMgEXhcWKA	Montréal
 EiwxlbR8fb68lMgEXhcWKA	Phoenix
 EiwxlbR8fb68lMgEXhcWKA	Dorval
+rXvsM4vsvrhmLKXu10HRbQ	Edinburgh
+rXvsM4vsvrhmLKXu10HRbQ	City of Edinburgh
 BzLUyHSJrl-lUVWw9rqlvQ	Mesa
 BzLUyHSJrl-lUVWw9rqlvQ	Tempe
 BzLUyHSJrl-lUVWw9rqlvQ	Las Vegas
@@ -1123,6 +1466,10 @@ BzLUyHSJrl-lUVWw9rqlvQ	Chandler
 ICwMfseYkrB0ZEK8tDUOHw	Scottsdale
 ICwMfseYkrB0ZEK8tDUOHw	Madison
 ICwMfseYkrB0ZEK8tDUOHw	Phoenix
+2ky6A9YKsyLs2saA3gjTIA	Phoenix
+2ky6A9YKsyLs2saA3gjTIA	Las Vegas
+2ky6A9YKsyLs2saA3gjTIA	Henderson
+cGok9ycGn_HvZaht9xkyPw	Las Vegas
 ioLQrCvCBz3HmlKZeFxbJQ	Las Vegas
 AbMjnKOwg736fcIu8apuyQ	Boulder City
 AbMjnKOwg736fcIu8apuyQ	Las Vegas
@@ -1149,12 +1496,16 @@ lConjPFTZqz4zWELK_EJtw	Phoenix
 UqkrP5O2ToeXRcYbp7okIA	Las Vegas
 UqkrP5O2ToeXRcYbp7okIA	Phoenix
 JQnXiuIRwHjB-sEXbu_W3g	Las Vegas
+0uEqdNTVj-I7zM83bbcgsg	Las Vegas
+0uEqdNTVj-I7zM83bbcgsg	Henderson
 paNtPIcJtA_7TqwC8q27-g	Las Vegas
 DONwuwg9iySZ7LFjtcHdCA	Las Vegas
 rCx7tb3toOJUsvdOeqYY0g	Scottsdale
 rCx7tb3toOJUsvdOeqYY0g	Las Vegas
 rCx7tb3toOJUsvdOeqYY0g	Phoenix
 rCx7tb3toOJUsvdOeqYY0g	Cave Creek
+WPl2gULxrrh_GoypMzHF-A	Las Vegas
+WPl2gULxrrh_GoypMzHF-A	Henderson
 xywXoLnG7qWIayFu8oZQgQ	Las Vegas
 xywXoLnG7qWIayFu8oZQgQ	Avondale
 xywXoLnG7qWIayFu8oZQgQ	Cleveland
@@ -1165,6 +1516,7 @@ xywXoLnG7qWIayFu8oZQgQ	Boulder City
 rSsbCUYJpw0mkqZ-Hwlj3Q	Pittsburgh
 rSsbCUYJpw0mkqZ-Hwlj3Q	Cleveland
 rSsbCUYJpw0mkqZ-Hwlj3Q	Phoenix
+Jy7BwojX8fRcq14_Lmigcg	Las Vegas
 jt49xjEjQisu6wTTGn6B3A	Scottsdale
 jt49xjEjQisu6wTTGn6B3A	Cleveland
 jt49xjEjQisu6wTTGn6B3A	Lakewood
@@ -1177,6 +1529,11 @@ Lu8y2ayxVlAzuJEVfVcH4w	Scottsdale
 Lu8y2ayxVlAzuJEVfVcH4w	Phoenix
 Lu8y2ayxVlAzuJEVfVcH4w	Las Vegas
 Lu8y2ayxVlAzuJEVfVcH4w	Charlotte
+WnzRueYdRWNSbkXB0_0i4Q	North Las Vegas
+WnzRueYdRWNSbkXB0_0i4Q	Scottsdale
+WnzRueYdRWNSbkXB0_0i4Q	Las Vegas
+WnzRueYdRWNSbkXB0_0i4Q	Henderson
+WnzRueYdRWNSbkXB0_0i4Q	Phoenix
 IDl8QswIXwI6Fr6KW3TbRw	North Las Vegas
 IDl8QswIXwI6Fr6KW3TbRw	Las Vegas
 IDl8QswIXwI6Fr6KW3TbRw	Henderson
@@ -1191,6 +1548,7 @@ vRjVhl3ONG2GfWY4NXJZbQ	Las Vegas
 vRjVhl3ONG2GfWY4NXJZbQ	Henderson
 KjhdcYvq72vD59K8thXmrw	Las Vegas
 KjhdcYvq72vD59K8thXmrw	Charlotte
+R_xjmz2nZgyOkqFKPmkjnA	Las Vegas
 KLoEkHgC5wrORHdPpPq70Q	Richmond Hill
 KLoEkHgC5wrORHdPpPq70Q	Markham
 KLoEkHgC5wrORHdPpPq70Q	Mississauga
@@ -1212,6 +1570,12 @@ ITa3vh5ERI90G_WP4SmGUQ	Montréal
 ITa3vh5ERI90G_WP4SmGUQ	Phoenix
 ITa3vh5ERI90G_WP4SmGUQ	Pittsburgh
 ITa3vh5ERI90G_WP4SmGUQ	Dorval
+E9GIXD6rVF0oZublcl7jLQ	Las Vegas
+53-0CIUo-pd5ysfvHXb2yQ	Las Vegas
+MByYNutOWC938H_-MjyjoA	Mesa
+MByYNutOWC938H_-MjyjoA	Las Vegas
+MByYNutOWC938H_-MjyjoA	Phoenix
+MByYNutOWC938H_-MjyjoA	Glendale
 to5QXyxyI84QCR9JJMXrSw	Las Vegas
 RkfQX8dSJNzkAAItX326Og	Tempe
 RkfQX8dSJNzkAAItX326Og	Scottsdale
@@ -1222,6 +1586,8 @@ yh8_9Ix1wp9dekvyOZbilQ	Toronto
 yh8_9Ix1wp9dekvyOZbilQ	Las Vegas
 yh8_9Ix1wp9dekvyOZbilQ	Phoenix
 yh8_9Ix1wp9dekvyOZbilQ	Mississauga
+U-7EVbeRf1wlSZfHW_gujQ	Las Vegas
+U-7EVbeRf1wlSZfHW_gujQ	Henderson
 HipNu3vK_MSJ-IIGsKFbfg	Las Vegas
 HipNu3vK_MSJ-IIGsKFbfg	Phoenix
 3zxy3LVBV3ttxoYbY4rQ8A	Tempe
@@ -1230,6 +1596,10 @@ HipNu3vK_MSJ-IIGsKFbfg	Phoenix
 3zxy3LVBV3ttxoYbY4rQ8A	Phoenix
 peuxbSQwXed-81cSqL7Ykw	Stuttgart
 peuxbSQwXed-81cSqL7Ykw	Las Vegas
+lZ0BZ7NWLBK5XgCQUA1ICA	Boulder City
+lZ0BZ7NWLBK5XgCQUA1ICA	Las Vegas
+lZ0BZ7NWLBK5XgCQUA1ICA	Phoenix
+lZ0BZ7NWLBK5XgCQUA1ICA	Henderson
 wSByVbwME4MzgkJaFyfvNg	Champaign
 wSByVbwME4MzgkJaFyfvNg	Toronto
 wSByVbwME4MzgkJaFyfvNg	Las Vegas
@@ -1244,11 +1614,13 @@ wSByVbwME4MzgkJaFyfvNg	Monticello
 wSByVbwME4MzgkJaFyfvNg	Phoenix
 wSByVbwME4MzgkJaFyfvNg	Chandler
 s84pefAbuXnkGXLGHDLDYA	Las Vegas
+c_1j2RMp_2jnWOEjlP9twQ	Las Vegas
 IDVFG1pNSHIHoVuoLuZpcQ	Mesa
 IDVFG1pNSHIHoVuoLuZpcQ	Avondale
 IDVFG1pNSHIHoVuoLuZpcQ	Las Vegas
 IDVFG1pNSHIHoVuoLuZpcQ	Phoenix
 IDVFG1pNSHIHoVuoLuZpcQ	Henderson
+cAmd-fttNSq-8zgreIy2YQ	Las Vegas
 oyXIV-9GRBBZrFydPCaR2w	Scottsdale
 oyXIV-9GRBBZrFydPCaR2w	Las Vegas
 oyXIV-9GRBBZrFydPCaR2w	Phoenix
@@ -1263,9 +1635,20 @@ m07sy7eLtOjVdZ8oN9JKag	Paradise Valley
 m07sy7eLtOjVdZ8oN9JKag	Phoenix
 m07sy7eLtOjVdZ8oN9JKag	Glendale
 m07sy7eLtOjVdZ8oN9JKag	Boulder City
+Rz9RdqB_vgpjH2OmJUkJGA	Las Vegas
+Rz9RdqB_vgpjH2OmJUkJGA	Phoenix
+tOTplIk838ZR1w1huTdX_Q	Champaign
+tOTplIk838ZR1w1huTdX_Q	Las Vegas
+GqzoKYXv6F1O85bhywyoSA	Las Vegas
 9HGR8sU_zm15sI109H-SGQ	Las Vegas
 9HGR8sU_zm15sI109H-SGQ	Phoenix
 I-FmdvI28N7OIIt4JZOgIg	Las Vegas
+3jjiY5D7oIlKeiCIZGHQew	Edinburgh
+3jjiY5D7oIlKeiCIZGHQew	Toronto
+3jjiY5D7oIlKeiCIZGHQew	Las Vegas
+3jjiY5D7oIlKeiCIZGHQew	Tempe
+3jjiY5D7oIlKeiCIZGHQew	Scottsdale
+3jjiY5D7oIlKeiCIZGHQew	Phoenix
 ET8n-r7glWYqZhuR6GcdNw	Las Vegas
 ET8n-r7glWYqZhuR6GcdNw	Charlotte
 ET8n-r7glWYqZhuR6GcdNw	Scottsdale
@@ -1276,8 +1659,17 @@ ET8n-r7glWYqZhuR6GcdNw	Pittsburgh
 y3HFVx8nbNmomSc-PWOy-g	Las Vegas
 y3HFVx8nbNmomSc-PWOy-g	Tallmadge
 W7DHyQlY_kXls2iXt-_2Ag	Las Vegas
+5BpJEC8YVi80ecWT5CtlfQ	Mesa
+5BpJEC8YVi80ecWT5CtlfQ	Tempe
+5BpJEC8YVi80ecWT5CtlfQ	Scottsdale
+5BpJEC8YVi80ecWT5CtlfQ	Las Vegas
+5BpJEC8YVi80ecWT5CtlfQ	Phoenix
 NZOTHK7fVn_4L966mk25EQ	Las Vegas
 NZOTHK7fVn_4L966mk25EQ	Phoenix
+q10s3mM6fI4AP9pbf7PXGw	Montreal
+q10s3mM6fI4AP9pbf7PXGw	Las Vegas
+q10s3mM6fI4AP9pbf7PXGw	Montréal
+5A0IUPoy71BL0V2otNwltQ	Las Vegas
 7NV6kcM2Mq5qY1drWD7LIg	Las Vegas
 Pf7FI0OukC_CEcCz0ZxoUw	Tempe
 Pf7FI0OukC_CEcCz0ZxoUw	Scottsdale
@@ -1296,6 +1688,10 @@ qUGMYSGV24KD8QFCdGGIlQ	Chandler
 trUFnQXasV8l2iJSzZKXrg	Las Vegas
 XY3EtrJI1OLMtiSQVrRZug	Henderson
 XY3EtrJI1OLMtiSQVrRZug	Las Vegas
+fHS0bQ-l5rHME_xXKQSYXQ	Scottsdale
+fHS0bQ-l5rHME_xXKQSYXQ	Charlotte
+fHS0bQ-l5rHME_xXKQSYXQ	Phoenix
+fHS0bQ-l5rHME_xXKQSYXQ	Las Vegas
 Ve0LUwcrzxL7w0RYgY4Aaw	Peoria
 Ve0LUwcrzxL7w0RYgY4Aaw	Edinburgh
 Ve0LUwcrzxL7w0RYgY4Aaw	Scottsdale
@@ -1320,6 +1716,8 @@ UUqGHQFu2tQDGv5r3yJWPA	Pittsburgh
 UUqGHQFu2tQDGv5r3yJWPA	Mantua
 UUqGHQFu2tQDGv5r3yJWPA	Lakewood
 UUqGHQFu2tQDGv5r3yJWPA	Las Vegas
+NE0Mx9NLNUi9eVUpM5v1Gw	Las Vegas
+iChrn349gyWB-8UGyn8a6Q	Las Vegas
 wEE-YMx5pmSuagLtNxMPKA	Tempe
 wEE-YMx5pmSuagLtNxMPKA	Scottsdale
 wEE-YMx5pmSuagLtNxMPKA	Montréal
@@ -1327,7 +1725,16 @@ wEE-YMx5pmSuagLtNxMPKA	Beachwood
 wEE-YMx5pmSuagLtNxMPKA	Phoenix
 wEE-YMx5pmSuagLtNxMPKA	Pittsburgh
 wEE-YMx5pmSuagLtNxMPKA	Bedford
+Qb5zbzvIeyWPxtysZKVJFg	Pittsburgh
+Qb5zbzvIeyWPxtysZKVJFg	Las Vegas
 DmdksmfNKLV50R-8Rz5FgQ	Las Vegas
+7SUXr3dr1hnclTNoph-QjA	Las Vegas
+7SUXr3dr1hnclTNoph-QjA	Henderson
+B9NKJ-8-wZvWaKNVik1L1w	Las Vegas
+4TCOItk-gIJROyNA5ftZ-Q	Cleveland
+4TCOItk-gIJROyNA5ftZ-Q	Charlotte
+4TCOItk-gIJROyNA5ftZ-Q	Montréal
+4TCOItk-gIJROyNA5ftZ-Q	Las Vegas
 cqf8dqO5_QUxjfo6WiM7yg	Edinburgh
 cqf8dqO5_QUxjfo6WiM7yg	Las Vegas
 UlWDGR0QrBbdFsVY6ugocw	Scottsdale
@@ -1341,16 +1748,30 @@ fgwI3rYHOv1ipfVfCSx7pg	Scottsdale
 fgwI3rYHOv1ipfVfCSx7pg	Paradise Valley
 fgwI3rYHOv1ipfVfCSx7pg	Phoenix
 fgwI3rYHOv1ipfVfCSx7pg	Las Vegas
+WNbVCtfq2lGMEwLDXyyd6A	Las Vegas
 daFmmMy1Jy1d6sVqMWSZgA	Las Vegas
+jI5grCzPrcpYgqtNVygWRQ	Tempe
+jI5grCzPrcpYgqtNVygWRQ	Phoenix
+jI5grCzPrcpYgqtNVygWRQ	Las Vegas
+jI5grCzPrcpYgqtNVygWRQ	Mississauga
 7SuWEgp0Lbz5ob8ckEX75A	Mesa
 7SuWEgp0Lbz5ob8ckEX75A	Tempe
 7SuWEgp0Lbz5ob8ckEX75A	Gilbert
 7SuWEgp0Lbz5ob8ckEX75A	Scottsdale
 7SuWEgp0Lbz5ob8ckEX75A	Phoenix
+-owSIDJSlrjRRUFcjttiEQ	Phoenix
+-owSIDJSlrjRRUFcjttiEQ	Las Vegas
 DM9uO9U819x1ugQ_ojSg4g	Las Vegas
 o5STsEtfvD1Ig0J7Z-1uxA	Tempe
 o5STsEtfvD1Ig0J7Z-1uxA	Scottsdale
 o5STsEtfvD1Ig0J7Z-1uxA	Phoenix
+sPk1JlWVFj1ZUiKABZSPdQ	Las Vegas
+DS0Idr2XDhz5e7ZfSy0dYA	Richmond Hill
+DS0Idr2XDhz5e7ZfSy0dYA	Toronto
+DS0Idr2XDhz5e7ZfSy0dYA	Markham
+DS0Idr2XDhz5e7ZfSy0dYA	Las Vegas
+fJlCRA7zVRW2zcuKGUhCMA	Boulder City
+fJlCRA7zVRW2zcuKGUhCMA	Las Vegas
 O59T-4QC1Ud8euM8mq834A	Ajax
 O59T-4QC1Ud8euM8mq834A	Montréal
 iLjMdZi0Tm7DQxX1C1_2dg	Scottsdale
@@ -1364,6 +1785,7 @@ iLjMdZi0Tm7DQxX1C1_2dg	Las Vegas
 7JpPvfDAE_14vA1xgFOFjw	Paradise
 7JpPvfDAE_14vA1xgFOFjw	Stoughton
 7JpPvfDAE_14vA1xgFOFjw	Amherst
+Jd17L6-fmSZzzF-0Fhjhxg	Las Vegas
 DC-eUCITuotmQ1Fyl4-Jtg	Las Vegas
 cjotiAHFSbFuvbxTWmGi1Q	Las Vegas
 cjotiAHFSbFuvbxTWmGi1Q	Phoenix
@@ -1387,12 +1809,28 @@ uKxUtSvo1An9d1xbQOiidA	Chandler
 Z1GkmmyhHAG8Q1e_QEOGgw	Elk Grove Villa
 Z1GkmmyhHAG8Q1e_QEOGgw	Las Vegas
 Z1GkmmyhHAG8Q1e_QEOGgw	Phoenix
+jCMdF94UyMHEi6iv8ys-gg	Edinburgh
 tP23n9LMs-IeGqlnvmo27g	Las Vegas
 lYp818T-xh8Ss79To5Azhw	Paradise Valley
 lYp818T-xh8Ss79To5Azhw	Scottsdale
 lYp818T-xh8Ss79To5Azhw	Phoenix
+c8FOqDRhtL7q_YsQio6bog	Tempe
+c8FOqDRhtL7q_YsQio6bog	Scottsdale
+c8FOqDRhtL7q_YsQio6bog	Phoenix
 TEtzbpgA2BFBrC0y0sCbfw	Las Vegas
+oazuTtSyKV6zrhbsgbdbUQ	Las Vegas
+HCP1pR_44Pw5_BiWAp47-Q	Las Vegas
 eKUGKQRE-Ywi5dY55_zChg	Las Vegas
+zUe6ERJ_jVDawBof4emCkQ	Scottsdale
+zUe6ERJ_jVDawBof4emCkQ	Charlotte
+zUe6ERJ_jVDawBof4emCkQ	Las Vegas
+zUe6ERJ_jVDawBof4emCkQ	Cave Creek
+yuW95jpipnokAZ97cESZUg	Cleveland
+yuW95jpipnokAZ97cESZUg	Lakewood
+yuW95jpipnokAZ97cESZUg	Solon
+yuW95jpipnokAZ97cESZUg	Las Vegas
+9nrHluRLJqbvVm6NS0SK2w	Las Vegas
+9nrHluRLJqbvVm6NS0SK2w	Charlotte
 Gppf1W0Bk9olxs1vplhmUg	Dorval
 Gppf1W0Bk9olxs1vplhmUg	Las Vegas
 Gppf1W0Bk9olxs1vplhmUg	Montréal
@@ -1400,6 +1838,10 @@ rN4RItq4xONM-cjgSfbvDQ	Tempe
 rN4RItq4xONM-cjgSfbvDQ	Scottsdale
 rN4RItq4xONM-cjgSfbvDQ	Phoenix
 rN4RItq4xONM-cjgSfbvDQ	Montréal
+VtiE3eXNYtH-tb0aFCF1Pw	Scottsdale
+VtiE3eXNYtH-tb0aFCF1Pw	Las Vegas
+VtiE3eXNYtH-tb0aFCF1Pw	Phoenix
+Gsd8iShe0T_hi7sAm6uq5g	Las Vegas
 QiciohgD8N6vCty4vGL3pQ	Las Vegas
 QiciohgD8N6vCty4vGL3pQ	Montréal
 idJ35gltZ90eFFCm2YvtXQ	Las Vegas
@@ -1407,6 +1849,8 @@ idJ35gltZ90eFFCm2YvtXQ	Henderson
 Wd4FRRD30avk-Mj6C_O2ow	Las Vegas
 o_8sVoYIFnoVun5YY_lAEg	Las Vegas
 o_8sVoYIFnoVun5YY_lAEg	Phoenix
+wqoXYLWmpkEH0YvTmHBsJQ	Scottsdale
+wqoXYLWmpkEH0YvTmHBsJQ	Las Vegas
 -9I98YbNQnLdAmcYfb324Q	Las Vegas
 -9I98YbNQnLdAmcYfb324Q	Phoenix
 LIvR3XdUX-7VFwICd7dYRw	Paradise Valley
@@ -1436,26 +1880,41 @@ QMqSgBqSrlRhz2B0UiORjw	Glendale
 4x3x0oGs9gcHCoQpqoI9hw	Scottsdale
 4x3x0oGs9gcHCoQpqoI9hw	Las Vegas
 4x3x0oGs9gcHCoQpqoI9hw	Chandler
+2qKOL7C7WbG_M3EOWvTFxA	Boulder City
+2qKOL7C7WbG_M3EOWvTFxA	Las Vegas
+2qKOL7C7WbG_M3EOWvTFxA	Charlotte
+GSMBpnEny1cR12yPIwO0Dg	Pittsburgh
 FkOmPLXOIhb6994LD389Rw	Surprise
 FkOmPLXOIhb6994LD389Rw	Scottsdale
 FkOmPLXOIhb6994LD389Rw	Phoenix
 xsT4KZTu_KnOVavtuXn4RA	Las Vegas
 xsT4KZTu_KnOVavtuXn4RA	Henderson
+XMmAJfiKPkXTZGs5QIwycA	Las Vegas
 YUx_I99dRSO4z4PE_-z10w	Las Vegas
 LOLGcB8sZy0nQ91Q9ESe_w	Edinburgh
 5Y5KbsI5buMcNh2hTFaRpA	Las Vegas
 5Y5KbsI5buMcNh2hTFaRpA	Phoenix
+C3Hpsx_eDfeSmxEc1HBzpA	Scottsdale
+C3Hpsx_eDfeSmxEc1HBzpA	Toronto
+C3Hpsx_eDfeSmxEc1HBzpA	Phoenix
+C3Hpsx_eDfeSmxEc1HBzpA	Mississauga
+C3Hpsx_eDfeSmxEc1HBzpA	Las Vegas
 jrMxBHW3SlUGVGYWvPsHWA	Las Vegas
 jrMxBHW3SlUGVGYWvPsHWA	Phoenix
 MGPQVLsODMm9ZtYQW-g_OA	Cleveland
 MGPQVLsODMm9ZtYQW-g_OA	Las Vegas
+EPK4_bIsyVlrlsLH3RClEQ	Las Vegas
+fMBA_z1hwURKp9uArgSmKA	Las Vegas
 LMoK9BUP6Tgfc0AeDVbZHQ	Montreal
 LMoK9BUP6Tgfc0AeDVbZHQ	Dorval
 LMoK9BUP6Tgfc0AeDVbZHQ	Edinburgh
 LMoK9BUP6Tgfc0AeDVbZHQ	Charlotte
 LMoK9BUP6Tgfc0AeDVbZHQ	Montréal
+7vTfFLJa3TIdaqsvxjeCMA	Parma
+7vTfFLJa3TIdaqsvxjeCMA	Westlake
 5tXRxr4T24Awl7vjyCvIcQ	Scottsdale
 5tXRxr4T24Awl7vjyCvIcQ	Charlotte
+S7VG3vBUtJDLKX_ewbc15A	Las Vegas
 IU86PZPgTDCFwJEuAg2j7g	Scottsdale
 IU86PZPgTDCFwJEuAg2j7g	Toronto
 IU86PZPgTDCFwJEuAg2j7g	Las Vegas
@@ -1469,8 +1928,10 @@ mgytZAasaiBf-END4aZD9w	Henderson
 eigZw_Tn4TWJPSZ9UO9Auw	Cleveland
 eigZw_Tn4TWJPSZ9UO9Auw	Las Vegas
 eigZw_Tn4TWJPSZ9UO9Auw	Henderson
+Gh7a3aAOlB2zMRocFzGEZg	Las Vegas
 2Gy7OX3zFVfNeeHLhmpzJw	Las Vegas
 2Gy7OX3zFVfNeeHLhmpzJw	Phoenix
+MSCVDZf_2AygHxLg-bz8kQ	Las Vegas
 52oH4DrRvzzl8wh5UXyU0A	Scottsdale
 52oH4DrRvzzl8wh5UXyU0A	Las Vegas
 Oi1qbcz2m2SnwUeztGYcnQ	Pittsburgh
@@ -1485,43 +1946,85 @@ J1aurUGR360LS7GRnuW5PA	Henderson
 0x9xu_b0Ct_6hG6jaxpztw	Phoenix
 3z7E1Gg001_1YdZZYDnO2A	Scottsdale
 3z7E1Gg001_1YdZZYDnO2A	Phoenix
+7RlyCglsIzhBn081inwvcg	Paradise
+7RlyCglsIzhBn081inwvcg	Las Vegas
 7an-zIbFKvGxjpeNN9H9ow	Toronto
 7an-zIbFKvGxjpeNN9H9ow	Las Vegas
 PAx6EkkOO19tvNtjuBzVgw	Las Vegas
 UOMSN12IGpju4sKwIJQE_Q	Las Vegas
+x6FBZjnRe0mwibshxyUd2w	Las Vegas
 pnTiEaqM4slogpY97n9Kvg	Madison
 pnTiEaqM4slogpY97n9Kvg	Phoenix
+6tPXsiDVPbJhHpufXZye0g	Las Vegas
+4COswap8Sp7OcVyn4C6mjA	Pittsburgh
+4COswap8Sp7OcVyn4C6mjA	Tempe
+4COswap8Sp7OcVyn4C6mjA	Cleveland
+4COswap8Sp7OcVyn4C6mjA	Charlotte
+3yBusRwPYtMCpaBkEyhyJw	Las Vegas
 rof9DyrMxiWY1NyQHtjeDA	Las Vegas
+Lzd7FTvMOvfg9WmR4MoNxg	Cleveland
+Lzd7FTvMOvfg9WmR4MoNxg	Las Vegas
+Lzd7FTvMOvfg9WmR4MoNxg	Charlotte
 KLa-WHDtN-wjyPF8p1e4Cw	Las Vegas
 KLa-WHDtN-wjyPF8p1e4Cw	Henderson
 c-Dja5bexzEWBufNsHfRrQ	Las Vegas
+WR6033peFiviFPzAV0yhJg	Las Vegas
 I-02Mz45H7siHsjjgVxPgQ	Las Vegas
 dobwUcYUESqWWTzgobfINw	Las Vegas
 dobwUcYUESqWWTzgobfINw	Henderson
+zI4hbgy-8zXGRWAWz1t3mw	Las Vegas
+zI4hbgy-8zXGRWAWz1t3mw	Phoenix
+zOrZ__FkCgY99LuU6TKivA	Las Vegas
+KqgHSTKL7KcXr8Svai6aTQ	Las Vegas
+KqgHSTKL7KcXr8Svai6aTQ	Henderson
+KqgHSTKL7KcXr8Svai6aTQ	Charlotte
 muK3bAO2dRwP79SBnppQ5g	Las Vegas
 ikdLkEDRE1vV5oQVPC2f2Q	Las Vegas
 f1MFQxTZAWJnRQdrouLg_A	Scottsdale
 f1MFQxTZAWJnRQdrouLg_A	Phoenix
 ottOuy7FZtUV2HnBfhVk0w	Las Vegas
+0JJrchH24gp_6Mobc-pFgQ	Las Vegas
+bnf7t21SCFw3HWfV_soG_Q	Las Vegas
+bnf7t21SCFw3HWfV_soG_Q	Phoenix
 zKY6NM9CxxWxcY5JJXUB7g	Las Vegas
 58yXn5Y4409kc9q88YwU6w	Pittsburgh
 58yXn5Y4409kc9q88YwU6w	Toronto
 58yXn5Y4409kc9q88YwU6w	Las Vegas
 58yXn5Y4409kc9q88YwU6w	Charlotte
+cwbjd4cT9jlQybaQ_orxoA	Dorval
+cwbjd4cT9jlQybaQ_orxoA	Las Vegas
+cwbjd4cT9jlQybaQ_orxoA	Montréal
+jQYIE9bjrh9EP-B5FXpqPw	Henderson
+jQYIE9bjrh9EP-B5FXpqPw	Las Vegas
+jQYIE9bjrh9EP-B5FXpqPw	Tempe
+jQYIE9bjrh9EP-B5FXpqPw	Scottsdale
+jQYIE9bjrh9EP-B5FXpqPw	Phoenix
+jQYIE9bjrh9EP-B5FXpqPw	Chandler
+7IV3JXTXufasWNSkDEdrcQ	Scottsdale
+7IV3JXTXufasWNSkDEdrcQ	Las Vegas
 vHc-UrI9yfL_pnnc6nJtyQ	Las Vegas
 ncvgNeEsAIAuMWYFN2blhg	Scottsdale
 ncvgNeEsAIAuMWYFN2blhg	Las Vegas
 ncvgNeEsAIAuMWYFN2blhg	Phoenix
+M3w1rv78j3nzQcJVzC-bNw	Las Vegas
 bsMGQruRQGgQZK4KA9Q4Aw	Pittsburgh
 bsMGQruRQGgQZK4KA9Q4Aw	Las Vegas
 Cvvu2V_FO3FjxIHpartSMg	Las Vegas
+KO7CuK8p5u4AFGQ7voXe9g	Scottsdale
+KO7CuK8p5u4AFGQ7voXe9g	Phoenix
 MX_sGTpLIQ0EOcvK73nRyA	Las Vegas
 ofeLGyYo5yACoVzahgExZg	Las Vegas
 o3Zv4AolGeRr-xX7QhESUg	Las Vegas
+S62nV8czFuske-QznlEbvA	Pittsburgh
 Sv3Q-VQ4jBi1KPpdnKztAg	Las Vegas
+4n0eMAeCSvWRl6an5Z8OGg	Las Vegas
 7RLTk4rftgaUIDSau7RLTA	Las Vegas
+zKjnzaHojLBSXndsW-_W5Q	Las Vegas
 IS9yw8P2uAPBX6FNLLX4KA	Las Vegas
 7mvkt8CWDLeWZrA1BpEWeg	Las Vegas
+4DyMRBKrokax6d8LCI3GAw	Sun Prairie
+47K1MpOBhigOvjuBcDbm7Q	Las Vegas
+e-sQ7oGQElAaaE5OH6b55g	Las Vegas
 09T1oyi6c-9lvyt7gQCD2w	Las Vegas
 P5bUL3Engv-2z6kKohB6qQ	Pittsburgh
 P5bUL3Engv-2z6kKohB6qQ	Chambly
@@ -1530,6 +2033,7 @@ P5bUL3Engv-2z6kKohB6qQ	Edinburgh
 P5bUL3Engv-2z6kKohB6qQ	Stuttgart
 MiDcQ-bgIg4B91reFV4Qaw	Las Vegas
 a-Ug_MFryz3utca-NaMkNQ	Las Vegas
+XiMjphpRsjC4jK8_4jYQtA	Las Vegas
 8k3aO-mPeyhbR5HUucA5aA	Las Vegas
 8k3aO-mPeyhbR5HUucA5aA	Mississauga
 f-iREBx-5CznQjIMWmoOkw	Boulder City
@@ -1543,42 +2047,70 @@ Azkt7v-m9iBLjMZtCMxorg	Las Vegas
 YSfAlm6XNaym-JOrRjv3Tg	Scottsdale
 YSfAlm6XNaym-JOrRjv3Tg	Charlotte
 YSfAlm6XNaym-JOrRjv3Tg	Phoenix
+fSVgD7-80h1KhcQ1lgIcFw	Tempe
+fSVgD7-80h1KhcQ1lgIcFw	Henderson
+fSVgD7-80h1KhcQ1lgIcFw	Montréal
 GGWjA8v479feCo6OPTLQOg	Las Vegas
 gvOuN8PAUJHOfbO03dOgUA	Toronto
 gvOuN8PAUJHOfbO03dOgUA	Las Vegas
+c-c64rURhBR8V8scSbwo7Q	Las Vegas
+SxSeTYznS0YKSISgs5hj_Q	Peoria
+SxSeTYznS0YKSISgs5hj_Q	Phoenix
 f_1bRw8RuK-zZAKuUMTqNw	Las Vegas
 f_1bRw8RuK-zZAKuUMTqNw	Henderson
 NOUfyJW-BAo_-Cbfo8edww	Toronto
 37cpUoM8hlkSQfReIEBd-Q	Las Vegas
 WNZfkL4DBspueoGSUOMAqA	Las Vegas
+jhvreOViehq5zA4p2dgSVg	Las Vegas
+jhvreOViehq5zA4p2dgSVg	Charlotte
 M9JDlUWudvrGkLX7AkJ3Fw	Las Vegas
 M9JDlUWudvrGkLX7AkJ3Fw	Montréal
+3C3zSdJyals9cpa9meBz6Q	Pittsburgh
+eW-IQGFyOcqg-aKuhxKf3g	Charlotte
 ens7LiIE4Cs4RjW5Mz65Mw	Pittsburgh
 ens7LiIE4Cs4RjW5Mz65Mw	Phoenix
 ens7LiIE4Cs4RjW5Mz65Mw	Coraopolis
 ens7LiIE4Cs4RjW5Mz65Mw	Las Vegas
+OZRhAe-La1bX2xhLGJujVg	Scottsdale
 jwbcs_eQ2QznrOyMuqz1LQ	Toronto
 jwbcs_eQ2QznrOyMuqz1LQ	Madison
 jwbcs_eQ2QznrOyMuqz1LQ	Middleton
 jwbcs_eQ2QznrOyMuqz1LQ	Phoenix
+fIfKT5J7OWnr_sNP7VKkAw	Las Vegas
+QLh66IrhezQBYKh9AOsGpg	Las Vegas
 ci7Q6NvXQ8UZrBHusVX18g	Saint-Leonard
 ci7Q6NvXQ8UZrBHusVX18g	Montréal
+90U9Qgse46LfGRP3dGNOgw	Las Vegas
+4jNA2EdwDGG-ZihOXpc9GQ	Las Vegas
+84t6jpyclA55TMfMV0X0kA	Charlotte
+s9Tz1t1Dem16-lVlNfdS_Q	Las Vegas
+84FcN7Bq9BnL3wPtnyye6w	Las Vegas
 INxvh4Rixsdfzh6PcWc_pw	Las Vegas
 INxvh4Rixsdfzh6PcWc_pw	Phoenix
 nZhcv7BQbemMPjz_mcdlVw	Las Vegas
+AetbB5SON94n7Yy-dZiZOQ	Charlotte
+AetbB5SON94n7Yy-dZiZOQ	Las Vegas
+Nlk0FejV7FqnQfI7HweiDw	Las Vegas
 xSmJ4WZCxnLePHIM95ZhcQ	Las Vegas
+rQpeGsQxKeImuUS3QP7OcA	Las Vegas
 dad6v9R0G3NpJaD2oGpMyQ	Las Vegas
 wwh1D-yDvJDrcdM_9-FhYg	Edinburgh
 EJU09nc6IwZfrXpR_YzUzw	Las Vegas
 TKzFASCz7GLGUcwO1QG2jA	Las Vegas
+2Snxk3rX2bvqeHqmsfn_bg	Las Vegas
 1kpMAKRZuAz3OzxBav3XTg	Montréal
 YSb8JRyI75M8FkbYWLH4UA	Madison
 MWtsoRxUoZNdsyNfxcJ90w	Las Vegas
 RL2fV7JSCkRJyFUUz1qqsw	Phoenix
+bGehWsGAHrtN5KLZ7JyE6A	Montréal
+YcmtCs2XKvWU0dv1L4tenw	Pittsburgh
+YcmtCs2XKvWU0dv1L4tenw	Charlotte
 6LmdYq-mhsaOXHjGh0lvQg	Las Vegas
 rWxJKFRojGJ6GgU9WnXWHA	Las Vegas
 D6NsLsG5WxswkObyuCVvfA	Las Vegas
+8dWVRK9v6TrhD-63TTEoIw	Las Vegas
 hHCPZz3qXDTo1rX_ZC9ZKA	Las Vegas
+odb19pSgJ4zr8fleNfenYQ	Las Vegas
 caICV2psm7OABEkikMx2vw	Pittsburgh
 caICV2psm7OABEkikMx2vw	Verona
 caICV2psm7OABEkikMx2vw	Cleveland
@@ -1589,12 +2121,15 @@ NZ5CvFZhNK1VivFi5tPt2g	Las Vegas
 2vFUeQGnG8zdLSQkwfChog	Las Vegas
 PyyJdP60TYF3EmcdwvpH4g	Las Vegas
 PyyJdP60TYF3EmcdwvpH4g	Chandler
+KKYWpTVmqEbJ2sMUxuYFAQ	Las Vegas
 TwPlaNvnziaN2wB3lk_9Mw	Las Vegas
 r2yT9tP_jpYROAnfzBbFLA	Las Vegas
 zL1TOe5-gojY9U35hE_ZEA	Las Vegas
 qVc8ODYU5SZjKXVBgXdI7w	Scottsdale
 qVc8ODYU5SZjKXVBgXdI7w	Las Vegas
+IZ3K3X2PUUZI7x0yXmKMcQ	Las Vegas
 W7o-AY6Hpyb5WkgxwGH_Yw	Sindelfingen
+5T_2RWFzvf-nMZYD0RsvWg	Las Vegas
 23J4vG9_xxxdnmi8CBX7Ng	Youngtown
 23J4vG9_xxxdnmi8CBX7Ng	Las Vegas
 xzWwfb0iVk4w8u1laXmuSg	Charlotte
@@ -1603,11 +2138,16 @@ ox8j0BRwYVVjNxFPosoJ3Q	Las Vegas
 hg71CGHy9bwpgY8cGVVg4w	Pittsburgh
 duihVwxxVm8iD1NVPwiWCA	Phoenix
 0rK89TS8xqy1wI4nYI1wfw	Paradise
+8McYYmfj7AnKWmm1kRzS7w	Las Vegas
+1h1DD2hgfgud7V4NCE9mVg	Toronto
 e8liGo2BoadH7PDCnkUyMw	Las Vegas
 7Pw2eIAvZLlO0BzCFCI-Mg	Toronto
+CxDk9I6JsH479sPHc07avA	Belmont
 EEWaEdr10jCtAwyK0U8_dw	Edinburgh
+vXCi4JXoLfy_WZWsbHHOug	Las Vegas
 2oiPE2rww3Ofw09aishi2A	Las Vegas
 bdenOEWX0Y1Yld5qNQ1QKA	Charlotte
+AHKSSaeYZ8h4nOXm5tyWzg	Las Vegas
 3TJcP0stfxjWGsLuGQgQdg	Las Vegas
 mV4lknblF-zOKSF8nlGqDA	Pittsburgh
 0gjhJz1pS47DfOmvL_9Ixw	Las Vegas
