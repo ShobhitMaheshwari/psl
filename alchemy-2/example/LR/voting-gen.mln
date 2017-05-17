@@ -1,0 +1,118 @@
+//predicate declarations
+AidToNicaraguanContras(rep)
+SuperfundRightToSue(rep)
+Democrat(rep)
+MxMissile(rep)
+EducationSpending(rep)
+ElSalvadorAid(rep)
+WaterProjectCostSharing(rep)
+Immigration(rep)
+AdoptionOfTheBudgetResolution(rep)
+SynfuelsCorporationCutback(rep)
+HandicappedInfants(rep)
+AntiSatelliteTestBan(rep)
+ExportAdministrationActSouthAfrica(rep)
+ReligiousGroupsInSchools(rep)
+Crime(rep)
+DutyFreeExports(rep)
+PhysicianFeeFreeze(rep)
+
+// 4.17969  Democrat(x)
+4.17969  Democrat(a1)
+
+// -1.72632  HandicappedInfants(x) ^ Democrat(x)
+1.72632  !Democrat(a1) v !HandicappedInfants(a1)
+
+// 0.209345  WaterProjectCostSharing(x) ^ Democrat(x)
+-0.209345  !Democrat(a1) v !WaterProjectCostSharing(a1)
+
+// 3.09695  AdoptionOfTheBudgetResolution(x) ^ Democrat(x)
+-3.09695  !Democrat(a1) v !AdoptionOfTheBudgetResolution(a1)
+
+// -9.98046  PhysicianFeeFreeze(x) ^ Democrat(x)
+9.98046  !Democrat(a1) v !PhysicianFeeFreeze(a1)
+
+// -1.67428  ElSalvadorAid(x) ^ Democrat(x)
+1.67428  !Democrat(a1) v !ElSalvadorAid(a1)
+
+// 2.10434  ReligiousGroupsInSchools(x) ^ Democrat(x)
+-2.10434  !Democrat(a1) v !ReligiousGroupsInSchools(a1)
+
+// -1.85448  AntiSatelliteTestBan(x) ^ Democrat(x)
+1.85448  !Democrat(a1) v !AntiSatelliteTestBan(a1)
+
+// -1.06866  AidToNicaraguanContras(x) ^ Democrat(x)
+1.06866  !Democrat(a1) v !AidToNicaraguanContras(a1)
+
+// 4.32255  MxMissile(x) ^ Democrat(x)
+-4.32255  !Democrat(a1) v !MxMissile(a1)
+
+// -4.25373  Immigration(x) ^ Democrat(x)
+4.25373  !Democrat(a1) v !Immigration(a1)
+
+// 6.09102  SynfuelsCorporationCutback(x) ^ Democrat(x)
+-6.09102  !Democrat(a1) v !SynfuelsCorporationCutback(a1)
+
+// -4.42138  EducationSpending(x) ^ Democrat(x)
+4.42138  !Democrat(a1) v !EducationSpending(a1)
+
+// 3.01266  SuperfundRightToSue(x) ^ Democrat(x)
+-3.01266  !Democrat(a1) v !SuperfundRightToSue(a1)
+
+// -1.46149  Crime(x) ^ Democrat(x)
+1.46149  !Democrat(a1) v !Crime(a1)
+
+// 1.78854  DutyFreeExports(x) ^ Democrat(x)
+-1.78854  !Democrat(a1) v !DutyFreeExports(a1)
+
+// 1.50078  ExportAdministrationActSouthAfrica(x) ^ Democrat(x)
+-1.50078  !Democrat(a1) v !ExportAdministrationActSouthAfrica(a1)
+
+// 0       HandicappedInfants(a1)
+0       HandicappedInfants(a1)
+
+// 0       WaterProjectCostSharing(a1)
+0       WaterProjectCostSharing(a1)
+
+// 0       AdoptionOfTheBudgetResolution(a1)
+0       AdoptionOfTheBudgetResolution(a1)
+
+// 0       PhysicianFeeFreeze(a1)
+0       PhysicianFeeFreeze(a1)
+
+// 0       ElSalvadorAid(a1)
+0       ElSalvadorAid(a1)
+
+// 0       ReligiousGroupsInSchools(a1)
+0       ReligiousGroupsInSchools(a1)
+
+// 0       AntiSatelliteTestBan(a1)
+0       AntiSatelliteTestBan(a1)
+
+// 0       AidToNicaraguanContras(a1)
+0       AidToNicaraguanContras(a1)
+
+// 0       MxMissile(a1)
+0       MxMissile(a1)
+
+// 0       Immigration(a1)
+0       Immigration(a1)
+
+// 0       SynfuelsCorporationCutback(a1)
+0       SynfuelsCorporationCutback(a1)
+
+// 0       EducationSpending(a1)
+0       EducationSpending(a1)
+
+// 0       SuperfundRightToSue(a1)
+0       SuperfundRightToSue(a1)
+
+// 0       Crime(a1)
+0       Crime(a1)
+
+// 0       DutyFreeExports(a1)
+0       DutyFreeExports(a1)
+
+// 0       ExportAdministrationActSouthAfrica(a1)
+0       ExportAdministrationActSouthAfrica(a1)
+
