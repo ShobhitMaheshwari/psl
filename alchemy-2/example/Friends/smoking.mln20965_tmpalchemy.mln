@@ -1,0 +1,32 @@
+// MLN for social networks section in tutorial
+
+// Evidence
+//Knows(person, person)
+
+// Some evidence, some query
+//Lives(person, place)
+//Smokes(person)
+
+// Query
+//Cancer(person)
+
+// Rules
+// If you smoke, you get cancer
+//Smokes(x) => Cancer(x)
+
+//symmetry
+Knows(x,y) => Knows(y,x)
+//transitivity
+Knows(P1,P2) ^ Knows(P2,P3) ^ (P1!=P3)  => Knows(P1,P3)
+//main rule
+Lived(P1,L) ^ Lived(P2,L) ^ (P1!=P2)  => Knows(P1,P2)
+//by default nobody knows nobody
+//!Knows(P1,P2)
+
+// People with friends who smoke, also smoke
+// and those with friends who don't smoke, don't smoke
+//Friends(x, y) => (Smokes(x) <=> Smokes(y))
+
+
+
+#include "lived_obs.txt"

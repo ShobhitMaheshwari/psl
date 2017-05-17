@@ -1,0 +1,4 @@
+Knows(Ben, Elena)
+Knows(Ben, Dhanya)
+Knows(Arti, Alex)
+Knows(Sabina, Dhanya)

@@ -1,0 +1,19 @@
+// MLN for social networks section in tutorial
+
+// Evidence
+Lived(person, place)
+
+// Some evidence, some query
+Knows(person, person)
+
+// Rules
+
+//symmetry
+1.000000  Knows(x,y) => Knows(y,x)
+//transitivity
+1.000000  Knows(a,b) ^ Knows(b,c) ^ (a!=c)  => Knows(a,c)
+//main rule
+1.000000  Lived(a,l) ^ Lived(b,l) ^ (a!=b)  => Knows(a,b)
+//by default nobody knows nobody
+//!Knows(P1,P2)
+
