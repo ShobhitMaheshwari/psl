@@ -85,7 +85,15 @@ public class EasyLP {
 			this.weightMap["Prior"] = cb.getInteger('model.weights.prior', weightMap["Prior"]);
 			this.useTransitivityRule = cb.getBoolean('model.rule.transitivity', false);
 			this.useSymmetryRule = cb.getBoolean('model.rule.symmetry', false);
+	                log.debug("modelweightmap lived: {}", this.weightMap["Lived"]);
+
+	                log.debug("modelweightmap lived: {}", this.weightMap["Transitivity"]);
+
+	                log.debug("modelweightmap lived: {}", this.weightMap["Symmetry"]);
+	                log.debug("modelweightmap lived: {}", this.weightMap["Prior"]);
+
 		}
+		public PSLConfig(){}
 	}
 
 	public EasyLP(ConfigBundle cb) {
@@ -108,8 +116,8 @@ public class EasyLP {
 	 * Defines the rules for this model, optionally including transitivty and
 	 * symmetry based on the PSLConfig options specified
 	 */
-	private void defineRules() {
-		log.info("Defining model rules");
+	private void defineRules(PSLConfig config) {
+		//log.info("Defining model rules");
 		model.add(
 			rule: ( Lived(P1,L) & Lived(P2,L) & (P1-P2) ) >> Knows(P1,P2),
 			squared: config.sqPotentials,
@@ -144,7 +152,7 @@ public class EasyLP {
 			weight: config.weightMap["Prior"]
 		);
 
-		log.debug("model: {}", model);
+		//log.debug("model: {}", model);
 	}
 
 	/**
@@ -223,13 +231,13 @@ public class EasyLP {
 		cpc.setBaseline(truthDB);
 		DiscretePredictionStatistics stats = dpc.compare(Knows);
 		double mse = cpc.compare(Knows);
-		log.info("MSE: {}", mse);
-		log.info("Accuracy {}, Error {}",stats.getAccuracy(), stats.getError());
-		log.info(
+		log.warn("MSE: {}", mse);
+		log.warn("Accuracy {}, Error {}",stats.getAccuracy(), stats.getError());
+		log.warn(
 				"Positive Class: precision {}, recall {}",
 				stats.getPrecision(DiscretePredictionStatistics.BinaryClass.POSITIVE),
 				stats.getRecall(DiscretePredictionStatistics.BinaryClass.POSITIVE));
-		log.info("Negative Class Stats: precision {}, recall {}",
+		log.warn("Negative Class Stats: precision {}, recall {}",
 				stats.getPrecision(DiscretePredictionStatistics.BinaryClass.NEGATIVE),
 				stats.getRecall(DiscretePredictionStatistics.BinaryClass.NEGATIVE));
 
@@ -245,12 +253,31 @@ public class EasyLP {
 		Partition truthPartition = ds.getPartition(PARTITION_TRUTH);
 
 		definePredicates();
-		defineRules();
+		//defineRules();
 		loadData(obsPartition, targetsPartition, truthPartition);
-		runInference(obsPartition, targetsPartition);
-		writeOutput(targetsPartition);
-		evalResults(targetsPartition, truthPartition);
+		log.warn("ABC***");
+		PSLConfig config = new PSLConfig();
+		for(int Lived = 10; Lived < 30; Lived+=5){//4
 
+			for(int Transitivity = 0; Transitivity < 10; Transitivity+=3){//4
+
+				for(int Symmetry = 80;Symmetry < 120; Symmetry+=10){//4
+					for(int Prior = 40;Prior < 60; Prior+=5){//4
+			log.warn("Lived: {} Transitivity: {} Symmetry: {} Prior: {} ", Lived,Transitivity,Symmetry,Prior);
+			config.weightMap = [
+                        "Lived":Lived,
+//                      "Likes":10,
+                        "Transitivity":Transitivity,
+                        "Symmetry":Symmetry,
+                        "Prior":Prior
+                	];
+			defineRules(config);
+
+			runInference(obsPartition, targetsPartition);
+			//writeOutput(targetsPartition);
+			evalResults(targetsPartition, truthPartition);
+		}}}}
+		log.info("ABC***");
 		ds.close();
 	}
 
